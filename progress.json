@@ -17,6 +17,14 @@
       "modo": "real",
       "fichas": 40,
       "lote": 3
+    },
+    {
+      "fecha": "2026-11-04",
+      "modo": "real",
+      "fichas_seleccionadas": 50,
+      "fichas_procesadas": 19,
+      "lote": 4,
+      "detenido": "conflicto en Toldos Moñita (dominio/email de otra empresa). Fichas 20-50 investigadas, sin escribir; quedan para el siguiente lote."
     }
   ],
   "nota": "requiere_llamada = sin web propia o web inaccesible; no reintentar. retenida_intermediario = web de captación de terceros, sin escribir. conflicto_pendiente = detenido por conflicto; requiere revisión humana antes de escribir.",
@@ -945,6 +953,158 @@
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
       "lote": 3
+    },
+    {
+      "record_id": "76b0fd0e-ecf2-4c30-be6b-092bf2a00502",
+      "entry_id": "9e9b28cd-83e8-49e1-8d5b-ed20f521b100",
+      "nombre": "Pinturas BarGom",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "7dcfc5ec-a6b5-4b42-8792-11146c7ca272",
+      "entry_id": "5d0136d5-b658-423f-9167-8ca4815def92",
+      "nombre": "Tecnyvan",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "7e2f6376-88f1-486a-9332-db2437e48879",
+      "entry_id": "04d1311e-c41c-43ec-81cc-b01ce7c89c31",
+      "nombre": "Jardinería Salamanca Verde",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "7f159107-2827-4f71-95fc-8cfad53b6fcb",
+      "entry_id": "14ca2b78-1612-4bd1-9d91-255566b8b3ac",
+      "nombre": "Gesmar - Administración de Fincas",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "80c66a3f-b265-4a56-8029-f250e66ea2fb",
+      "entry_id": "840e5f0e-a24b-4d84-8954-fef68c1764ab",
+      "nombre": "LunaliaTech",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "87e66ac7-fea2-41f0-9ff8-e401982ff26e",
+      "entry_id": "90627936-ff16-460c-a24c-3b2a14c843e2",
+      "nombre": "Centro Reto Salamanca / El Recogedor",
+      "estado": "retenida_intermediario",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "8e878d5e-739e-4270-9ac0-32ef8ed4e319",
+      "entry_id": "38363e5a-35f7-4ed9-a955-09f923713fae",
+      "nombre": "Multiservicios EDUCE",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "8ebf1a2a-8946-40fc-b651-3ffd70e12e21",
+      "entry_id": "95185bec-6931-4632-8255-98e62d2de774",
+      "nombre": "Jardinería El Manzano",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "94bd3adf-d835-42b9-adc4-260d07a90a88",
+      "entry_id": "9f349ec2-9958-4a52-83eb-36efbd3f5cc6",
+      "nombre": "Tot-Net",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "95402a5f-7b10-4ef6-a1c9-f756ca17db86",
+      "entry_id": "d99a4714-870d-4e67-8ad3-40d625602741",
+      "nombre": "Sucesores de Moreno",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "97a43824-2c7f-44c6-bc7d-3b65e68321ca",
+      "entry_id": "22b2b7dc-9975-4d8d-a9c5-1fa161c3c379",
+      "nombre": "Falken Informática",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "97e5f111-355b-4bb2-8a6d-37b62c0fa9b1",
+      "entry_id": "d8bf0fe5-3dda-433d-ab52-b365338fe070",
+      "nombre": "MAN&MAN Manitas y Mantenimiento",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "998941b2-9594-4e1b-b25c-af4b42e44e6b",
+      "entry_id": "bf85ca91-1122-4914-9162-90d0955432aa",
+      "nombre": "Vanessa Blanco Casado",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "9a1f99eb-1859-4332-95ec-f8dea2b5750f",
+      "entry_id": "42cbceb1-e1f4-41a5-9902-c2f4546fab81",
+      "nombre": "Administraciones Castro Blanco",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "9b066ed0-e515-4854-bd44-07492c2ed377",
+      "entry_id": "26309ff3-cbea-4cd5-b2e3-f998430d0a26",
+      "nombre": "Pinturas Bragado S.L.",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "9dbbc3f0-2f08-4512-ac6c-816c711eacaf",
+      "entry_id": "078f9d89-7da1-41e3-8d94-b566b056805c",
+      "nombre": "Mudanzas y Transportes Tormes",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "9dfe0077-62cd-4202-a8db-d5656d16b861",
+      "entry_id": "244443e6-d27c-499f-b6f2-2cdd8d573af4",
+      "nombre": "Artista García",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "a173768b-fe8a-46af-a21e-9d70e68cb168",
+      "entry_id": "976cadd1-0fd0-43a7-ab1e-4aa4f9f2422d",
+      "nombre": "Móvilnext",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 4
+    },
+    {
+      "record_id": "a2b7104a-440d-4414-9c5a-af52547edd0e",
+      "entry_id": "264e6ade-06ba-4dfe-b75e-b33fc61bf67e",
+      "nombre": "Toldos Salamanca / Toldos Moñita Pulido",
+      "estado": "conflicto_pendiente",
+      "fecha": "2026-11-04",
+      "lote": 4
     }
   ],
   "excluidos_no_en_lista": [
