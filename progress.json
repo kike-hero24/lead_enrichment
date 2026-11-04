@@ -30,6 +30,13 @@
       "modo": "real",
       "fichas": 50,
       "lote": 5
+    },
+    {
+      "fecha": "2026-11-04",
+      "modo": "real",
+      "fichas": 15,
+      "lote": 6,
+      "nota": "Últimas fichas elegibles (Tier 3). Antes del lote se añadieron 8 dominios propuestos del lote 5 + 2 emails (aprobado por el usuario)."
     }
   ],
   "nota": "requiere_llamada = sin web propia o web inaccesible; no reintentar. retenida_intermediario = web de captación de terceros, sin escribir. conflicto_pendiente = detenido por conflicto; requiere revisión humana antes de escribir.",
@@ -1759,6 +1766,126 @@
       "estado": "enriquecida",
       "fecha": "2026-11-04",
       "lote": 5
+    },
+    {
+      "record_id": "e08b829a-24bc-4ff5-bbe2-0d1a0292bb5f",
+      "entry_id": "1fba2ad9-efce-4e7c-ad50-db69245bd4e8",
+      "nombre": "desatascosdesatrancoslimpiezassalamanca.info",
+      "estado": "retenida_duplicado_promantec24",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "f7f9e9c9-7ce2-4f5a-b532-6ac4a55f5343",
+      "entry_id": "b482a92e-5bcb-4d1f-93e7-3e32ea009164",
+      "nombre": "AG Cerrajero (AG 617654989)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "d7d113d9-359e-4f97-8c9e-8608fad27893",
+      "entry_id": "6e025bc7-32fc-4f39-a494-ffdd2dd8bee2",
+      "nombre": "Cerrajero en Salamanca 24 Horas (cerrajero-salamanca.es)",
+      "estado": "retenida_intermediario",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "cca03b70-29ad-427b-bd3a-f56145da8056",
+      "entry_id": "9973d015-0809-42a2-bdb9-f24f87a9cabd",
+      "nombre": "Carpintería Hernández (La Encina)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "e08ddd51-ad50-4eb4-acc2-4b697903646d",
+      "entry_id": "9c00d84f-6817-4d13-9da8-991d947497e5",
+      "nombre": "J.G. Coria Ebanistería",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "f003662b-9a86-41fe-b9c8-bf9a3c113c64",
+      "entry_id": "510c1a87-41fd-4237-ac9f-df25d35e950c",
+      "nombre": "Impermeabilizaciones Salamanca",
+      "estado": "retenida_duplicado_promantec24",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "d3ac0558-fabe-4d64-8ac7-36bebd5fd9b5",
+      "entry_id": "4892e406-a442-4f8e-870a-5903ab60feaa",
+      "nombre": "La Rana Pintora",
+      "estado": "retenida_intermediario",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "ce262134-023e-4417-8eb2-9596fa13003d",
+      "entry_id": "610943a5-4ce8-4221-b2a3-29053994c97e",
+      "nombre": "Pinturas Hermón 72",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "c7ac3f17-501a-4b5d-9a1e-dafb0c1fd686",
+      "entry_id": "8567b525-304d-4c75-ad1a-1b5fcf36b3ee",
+      "nombre": "Multiservicios H&H",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "c25e380e-9560-4ae9-8c9f-da64914eaf94",
+      "entry_id": "74a75415-8ae5-479c-8651-59c4676cf537",
+      "nombre": "Asistencia Técnica Moreno",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "fdf111be-fcdc-4633-89dd-26150662463b",
+      "entry_id": "65fc8627-5e7d-438c-b7de-fbc99a88a240",
+      "nombre": "GPS Administración de Fincas",
+      "estado": "retenida_revisar_ficha",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "b3c15299-03d7-49e3-b260-6549fcc627ba",
+      "entry_id": "5b9761cf-86a4-476e-9a29-1ad7b5064985",
+      "nombre": "Limpia tu Casa con Mayte",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "dccc0b49-fb52-424c-a536-8f8e3c1fbde4",
+      "entry_id": "384343b6-7194-49a0-aa1b-69a81ae9439e",
+      "nombre": "Lorenzo Sánchez Muñoz",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "ccd609f1-baf3-4189-bca5-924cb60de707",
+      "entry_id": "ce34df4a-f0bd-47e5-881f-13373024dd89",
+      "nombre": "Smartmovil Salamanca",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 6
+    },
+    {
+      "record_id": "fba896bb-cf4f-4031-925c-d9402cccee73",
+      "entry_id": "f93dab2d-0244-47f1-ae62-70b774645ec8",
+      "nombre": "Servinarq",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 6
     }
   ],
   "excluidos_no_en_lista": [
@@ -1766,5 +1893,6 @@
     "aed9d907-857d-4f7c-94b5-bf8115848198",
     "4f199fd7-7ba7-4f16-b95d-4156a7515884"
   ],
-  "resoluciones_2026-11-04": "Aurelma: email corregido a aurelma@aurelma.es + 2 teléfonos. Construcciones González: teléfonos de la web sustituyen al anterior (+34616486580, anotado en comentario) + email. 9 dominios propuestos añadidos (+5 emails). 3 webs de captación descartadas (comentario en la entrada; stage no modificado)."
+  "resoluciones_2026-11-04": "Aurelma: email corregido a aurelma@aurelma.es + 2 teléfonos. Construcciones González: teléfonos de la web sustituyen al anterior (+34616486580, anotado en comentario) + email. 9 dominios propuestos añadidos (+5 emails). 3 webs de captación descartadas (comentario en la entrada; stage no modificado).",
+  "estado_global": "Sin fichas elegibles pendientes a 2026-11-04 (todas las de Prospect Discovery/Qualification sin Fuente+Confianza ya procesadas)."
 }
