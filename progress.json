@@ -9,8 +9,8 @@
     {
       "fecha": "2026-11-04",
       "modo": "real",
-      "fichas": 6,
-      "detenido": "conflicto en Aurelma (email existente distinto del publicado en la web)"
+      "fichas": 40,
+      "nota": "Detenido en la ficha 6 por conflicto (Aurelma); reanudado a petición del usuario. Construcciones González registrado como conflicto sin escribir."
     }
   ],
   "nota": "requiere_llamada = sin web propia o web inaccesible; no reintentar. retenida_intermediario = web de captación de terceros, sin escribir. conflicto_pendiente = detenido por conflicto; requiere revisión humana antes de escribir.",
@@ -340,6 +340,278 @@
       "entry_id": "b2b10144-042e-4758-8d59-d1432d58093d",
       "nombre": "Aurelma S.L. Construcciones",
       "estado": "conflicto_pendiente",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "78094788-e30e-4f9f-b43d-40ed0cb609e7",
+      "entry_id": "edc806a7-4636-4871-8c50-6d9e0eb24738",
+      "nombre": "Diseño y Obra S.L.",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "7d2e5ad0-7cad-4e3b-aea3-01e45ba6dcf8",
+      "entry_id": "3843ff84-8a3d-4ea6-b922-bde800ed14ec",
+      "nombre": "Hijos de Luis Martín García",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "7eb85c80-f91e-4b9e-843f-b59dc021db65",
+      "entry_id": "fbdaaf9c-8ac2-416d-ab05-76ae79111a3e",
+      "nombre": "Construcciones 360",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "994739bd-18e8-4e36-b9b1-3e38435e48bb",
+      "entry_id": "d4f25a2c-5fcc-49e5-8b6f-7b7bb34b5144",
+      "nombre": "Construcciones Ediglema",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "a5c631e4-45e8-4321-9ba7-fe557753084a",
+      "entry_id": "c787a973-77ad-4801-80a6-aa40be773d24",
+      "nombre": "Reformas Jomisaga",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "b2268664-58fd-4a9d-8564-135888230a98",
+      "entry_id": "86b23bb7-ad09-4fbc-8cbc-95147e021121",
+      "nombre": "Luxury Design España",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "b4f496b3-5f7e-4da4-ae2d-fc186c1d7104",
+      "entry_id": "6fdcd53c-1367-4f98-9a6d-5d8b1fe4428e",
+      "nombre": "Reformas Integrales Alonso",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "c2f51cc7-e7cf-4a09-93ff-c885fbf81d2d",
+      "entry_id": "f9fd1a13-8ac2-416d-8116-495cd954fb52",
+      "nombre": "DICAL Reformas",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "c6305701-cca2-4a59-b325-66cf4e2f22f0",
+      "entry_id": "a554cc4b-1b16-46ab-b7c6-eda80f354242",
+      "nombre": "Home Projects (Proyectos del Hogar)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "d32cf6ad-fbf9-4171-bca6-7e13603d73c2",
+      "entry_id": "601d9834-d21d-4e4c-b9b1-3dc35065c372",
+      "nombre": "Mavisal",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "d4bec97c-37e2-4e34-a58c-97780223f1f9",
+      "entry_id": "f1fc1cba-bc5d-41a7-b0b4-80dc2a06cfb8",
+      "nombre": "Pinturas y Reformas Jimeya",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "dbae25ba-8805-43eb-805b-8b14fdb218b2",
+      "entry_id": "9a101eb0-b929-469e-895b-3f162ccae977",
+      "nombre": "Azugres Baños",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "e7eb3ee7-c1e0-4ff0-bffb-f5e0b45d3138",
+      "entry_id": "b4940dad-3313-4db0-9389-fb331759812f",
+      "nombre": "Construcciones Herfoncal",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "e8d6a8b2-13ea-4fdb-807f-1d00003562de",
+      "entry_id": "e6a018d0-6d90-40fc-ab6a-ff367cab86b3",
+      "nombre": "Reformas El Mono",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "fd1347c6-4b14-41db-95e7-3191d8006ef4",
+      "entry_id": "8e69cfc5-bbf5-4212-af79-7da85997139e",
+      "nombre": "Globalcons Integral de Construcción",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "1e9d8f4a-546d-4b8d-b5f4-cfa37dbb117e",
+      "entry_id": "2097eba2-6c1d-4bde-bf8d-e216ca4b342a",
+      "nombre": "Vika Interiorismo",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "2bb18e70-46d5-4d11-8301-cbad029b6695",
+      "entry_id": "be77a63e-b873-42cf-9a67-9d3772cc2359",
+      "nombre": "Inter (interreformas.com)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "317dd8e6-bfd0-4c7a-8180-6997eaa67386",
+      "entry_id": "0afe4b68-b4f2-49b5-acbc-8a09f3888900",
+      "nombre": "Obras y Reformas Julián Hernández Sánchez",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "5154b94d-3823-458f-bf87-a4b9227a8991",
+      "entry_id": "741d3d17-8525-49d8-a515-4721e613951f",
+      "nombre": "Salmantina Reformas y Trabajos Verticales",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "5b1b6fdb-763d-42c2-8399-daa001cf817a",
+      "entry_id": "c819ebc8-496e-40f2-8a8d-3faf8b8c5ffe",
+      "nombre": "Construcciones González Salamanca",
+      "estado": "conflicto_pendiente",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "5da0b824-34a3-43ba-9b2c-f003156b2bdd",
+      "entry_id": "8476151b-9988-476a-a94a-b9c14f2a4edd",
+      "nombre": "Construcciones Consan",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "69df65c3-dced-4b61-b172-9c1585b758db",
+      "entry_id": "850296eb-d843-45cb-938b-d15c837d323e",
+      "nombre": "Cocinas y Reformas Azuvi",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "7aa4a0f1-b5b1-4207-ab3a-93fb8d8b9004",
+      "entry_id": "9ae6a2b1-5bdf-4a72-aabb-30e116319b63",
+      "nombre": "Construcciones Blázquez",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "a25197b1-880b-4d05-8759-c12c95e0fa22",
+      "entry_id": "6e02d610-1842-40e8-91c0-4ba2ab3cd5d2",
+      "nombre": "Cotatres",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "b4ca5e3f-7682-4a92-887d-8132e081ffe5",
+      "entry_id": "8979791b-190b-43b1-959b-40a302296ab9",
+      "nombre": "Reformas Salamanca / Promantec24",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "b51b4dcd-79ee-4c04-982d-ece5fce90bc6",
+      "entry_id": "4ff040b5-2742-4726-bea2-555daab0e003",
+      "nombre": "Reformas Salamanca baños y cocinas (reformassalamanca.es)",
+      "estado": "retenida_intermediario",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "cfa28dbf-8017-46cb-887c-b4ff6b4dda06",
+      "entry_id": "bbde6aa6-9977-4c0d-a922-4451b137b0d5",
+      "nombre": "A Tu Modo Reforma",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "00f3ddc9-df66-45a6-81b8-18818aefaf37",
+      "entry_id": "6627f7cb-4347-4531-ae99-592e04b76aef",
+      "nombre": "Reparación de Electrodomésticos",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "02285224-8111-4a12-b418-089e9d1784e3",
+      "entry_id": "3f6f64c7-c350-4c6b-b74a-1500136a3fb0",
+      "nombre": "PHONEGAME / arreglodeconsolas.es",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "067ce1c7-df01-4021-b18d-d28d125656d1",
+      "entry_id": "7692ce92-a84d-4259-97e8-e5d66f720e4c",
+      "nombre": "Florentino Cortés Hernández",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "095f47ab-48d1-475a-9fe9-18a502e63394",
+      "entry_id": "46fc2837-734a-47ce-8b56-2ee20d502419",
+      "nombre": "Limpiezas Sillero S.L.",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "0ae39286-c7f0-455b-bb1f-bfde75afe92e",
+      "entry_id": "8ed590d2-114e-4ded-874d-4478adebb05b",
+      "nombre": "Limpiezas Duende",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "0b20fa11-dfd1-4ace-98d3-f54c9be6450f",
+      "entry_id": "5fd8b387-c555-4583-96fa-5325a284a5cf",
+      "nombre": "Guijo y Serna (Administradores de Fincas)",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "0bde285c-ccff-4b5a-a148-f4599ec6571f",
+      "entry_id": "fdb2fdf9-82b6-4e40-b402-ac5929cdb84f",
+      "nombre": "AMANA Asistencia Técnica",
+      "estado": "requiere_llamada",
       "fecha": "2026-11-04",
       "lote": 2
     }
