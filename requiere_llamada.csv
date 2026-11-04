@@ -1,62 +1,50 @@
 nombre,ciudad,vertical,telefono_actual,motivo
-Reformas Reis,Salamanca,Reformas y Construcción,+34653275424,Web propia (reformasreis.com) no accesible: HTTP 503; no se pudo verificar ningún dato
 Construcciones Reformas y Servicios San Agustín,Salamanca,Reformas y Construcción,+34660464461,"Web candidata (reformasyserviciossanagustin.com) no confirmada: nombre distinto, sin ciudad y con otro teléfono (+34645989988)"
-Construcciones Herfoncal,Salamanca,Reformas y Construcción,+34635890076,Web propia (construccionesherfoncal.com) no resuelve; datos no verificables
+Construcciones Herfoncal,Salamanca,Reformas y Construcción,+34635890076,Web propia (construccionesherfoncal.com) no resuelve; datos no verificables | Reintento: web no accesible desde aquí; el buscador muestra otro móvil (651075326) → posible conflicto
 Reformas El Mono,Salamanca,Reformas y Construcción,+34745041963,Sin web propia ni datos en directorios
 Salmantina Reformas y Trabajos Verticales,Salamanca,Reformas y Construcción,,Sin teléfono. Dominio salmantinadereformas.com en venta; solo directorios
 Cocinas y Reformas Azuvi,Salamanca,Reformas y Construcción,,Sin teléfono. Sin web propia confirmada (solo directorios)
 Reparación de Electrodomésticos,Salamanca,Reparación de electrodomésticos y electrónica,+34600004900,"Nombre genérico, sin web; el teléfono parece de relleno"
 Florentino Cortés Hernández,Salamanca,Mudanzas y transporte,+34923188812,"Autónomo sin web propia (solo directorios, mismo teléfono)"
-Limpiezas Sillero S.L.,Salamanca,Limpieza,,Sin teléfono. Web propia sillerolimpiezas.com no accesible (503)
-Limpiezas Duende,Salamanca,Limpieza,+34625132400 / +34625132401,Dominio guardado webs.com es de Vistaprint; subdominio no accesible
-Guijo y Serna (Administradores de Fincas),Salamanca,Gestión y mantenimiento de inmuebles,,Sin teléfono. Web guijoyserna.es no legible (carga por JavaScript)
+Limpiezas Duende,Salamanca,Limpieza,+34625132400 / +34625132401,Dominio guardado webs.com es de Vistaprint; subdominio no accesible | Reintento: limpiezasduende.webs.com no accesible; ficha contaminada con datos de Vistaprint (dominio webs.com)
 AMANA Asistencia Técnica,Salamanca,Reparación de electrodomésticos y electrónica,+34923217704,Sin web propia; resultados son intermediarios de servicio técnico
-Comunisal Administradores de Fincas,Salamanca,Gestión y mantenimiento de inmuebles,+34686989706,Web comunisal.com desmantelada (redirige a Javier Rivas Real Estate); confirmar si sigue activa
-PC MEGASTORE,Salamanca,Soporte informático,+34923606557,Web propia pcmegastore.es no accesible (503)
-Pinturas Roma 2009 Salamanca,Salamanca,Pintura,,Sin teléfono. Web pinturasroma2009.es no accesible (503); en Carbajosa de la Sagrada
+Comunisal Administradores de Fincas,Salamanca,Gestión y mantenimiento de inmuebles,+34686989706,Web comunisal.com desmantelada (redirige a Javier Rivas Real Estate); confirmar si sigue activa | Reintento: comunisal.com redirige a Javier Rivas Real Estate; no confirmado
+PC MEGASTORE,Salamanca,Soporte informático,+34923606557,Web propia pcmegastore.es no accesible (503) | Reintento: 503 mantenimiento
 Mudanzas transbernal Salamanca,Salamanca,Mudanzas y transporte,+34670624963,Sin web propia (solo directorios)
-Disan Pintura & Decoración,Salamanca,Pintura,,Sin teléfono. Web disandecoracion.com no accesible (503)
-Campus PC Informática,Salamanca,Soporte informático,+34923623665,Web campuspc.es no accesible (503)
 GLOBAL,Salamanca,(sin vertical),+34685615053,Nombre genérico sin web ni vertical; lead dudoso (1 reseña de 1★)
-Decoraciones J.L. & Chamus,Salamanca,Pintura,,Sin teléfono. Web jlchamuspintores.es no resuelve
-KR Informática 99 S.L.,Salamanca,Soporte informático,+34923282291,Web kr-informatica.com no accesible (503)
-Mudanzas Jesús,Salamanca,Mudanzas y transporte,+34923223283,Web mudanzasjesus.es no resuelve; directorios con direcciones distintas
+Decoraciones J.L. & Chamus,Salamanca,Pintura,,Sin teléfono. Web jlchamuspintores.es no resuelve | Reintento: dominio ya no existe (NXDOMAIN)
+KR Informática 99 S.L.,Salamanca,Soporte informático,+34923282291,Web kr-informatica.com no accesible (503) | Reintento: dominio vacío (IONOS) y kr-informatica.es no existe
+Mudanzas Jesús,Salamanca,Mudanzas y transporte,+34923223283,Web mudanzasjesus.es no resuelve; directorios con direcciones distintas | Reintento: dominio ya no existe (NXDOMAIN); SL inactiva en registros
 Mudanzas y Portes El Moreno,Salamanca,Mudanzas y transporte,+34611688240,Sin web propia ni resultados
-Impermeabilización y Pintura Moi6,Salamanca,Pintura,+34628117390,Web impermeabilizacionypinturamoi6.es no accesible (503)
 Pinturas BarGom,Salamanca,Pintura,+34626285466,Sin web propia (solo directorios)
 Jardinería Salamanca Verde,Salamanca,Jardineria y Exteriores,+34689359046,Sin web propia (solo registros mercantiles)
 Gesmar - Administración de Fincas,Salamanca,Gestión y mantenimiento de inmuebles,+34623495694,Sin web; la única Gesmar registrada está en Madrid: verificar identidad
 Multiservicios EDUCE,Salamanca,Manitas,+34622114448,Sin web propia; directorios la clasifican como cerrajería/zapatería
 Jardinería El Manzano,Salamanca,Jardineria y Exteriores,+34661657895,Sin web propia; posible cierre; ficha contaminada con datos de Meta (dominio facebook.com)
-Tot-Net,Salamanca,Limpieza,,Sin teléfono. Web totnet.es da 403; empresa nacional con sede en Terrassa
-Vanessa Blanco Casado,Salamanca,Gestión y mantenimiento de inmuebles,+34679816897,Web fincasblancocasado.es no resuelve
+Tot-Net,Salamanca,Limpieza,,Sin teléfono. Web totnet.es da 403; empresa nacional con sede en Terrassa | Reintento: bloqueo Cloudflare 403; empresa nacional con sede en Terrassa
+Vanessa Blanco Casado,Salamanca,Gestión y mantenimiento de inmuebles,+34679816897,Web fincasblancocasado.es no resuelve | Reintento: dominio ya no existe (NXDOMAIN)
 Administraciones Castro Blanco,Salamanca,Gestión y mantenimiento de inmuebles,+34923260068,Sin web propia (solo directorios)
-Pinturas Bragado S.L.,Salamanca,Pintura,+34609806829,Web pinturasbragado.com no accesible (503)
-TODO EN CASA,Salamanca,Limpieza,+34602074985,Dominio todoencasasalamanca.com no resuelve; posible misma titularidad que Limpieza General Salamanca
-Kevin Jardinería y Limpiezas,Salamanca,Jardineria y Exteriores,,Sin teléfono. Web kevinjardineria.com no resuelve; está en Pelabravo
-SOQUIMSA S.L.,Salamanca,Mantenimiento piscinas,,Sin teléfono. Web soquimsa.com no accesible (503)
-Jardinería Monte Nuevo,Salamanca,Jardineria y Exteriores,+34645799111,Web jardineriamontenuevo.com no legible (carga por JavaScript)
+TODO EN CASA,Salamanca,Limpieza,+34602074985,Dominio todoencasasalamanca.com no resuelve; posible misma titularidad que Limpieza General Salamanca | Reintento: dominios .com/.es ya no existen (NXDOMAIN)
+Kevin Jardinería y Limpiezas,Salamanca,Jardineria y Exteriores,,Sin teléfono. Web kevinjardineria.com no resuelve; está en Pelabravo | Reintento: kevinjardineria.com y jardineriakevin.es no existen (NXDOMAIN)
 María Vázquez Jiménez,Salamanca,Gestión y mantenimiento de inmuebles,+34622952405,Sin web propia; directorios contradictorios
 SERVIS Salamanca,Salamanca,Limpieza,+34681947194,Sin web propia; ficha contaminada con datos de Squarespace
-Administración de Fincas María José Navarro,Salamanca,Gestión y mantenimiento de inmuebles,+34923213039,Web no resuelve
+Administración de Fincas María José Navarro,Salamanca,Gestión y mantenimiento de inmuebles,+34923213039,Web no resuelve | Reintento: dominio ya no existe (NXDOMAIN)
 Administración de Fincas 1992,Salamanca,Gestión y mantenimiento de inmuebles,,Sin teléfono. Sin web propia (solo registros)
 Ape Colorado,Salamanca,Pintura,+34626790579,La web propia no publica teléfono
 MultiManitas Salamanca,Salamanca,Manitas,,Sin teléfono. Sin web propia (solo Instagram)
-M.ª Victoria Miguel Andrés,Salamanca,Gestión y mantenimiento de inmuebles,+34923268465,Web mariavictoriamiguel.com no accesible (503)
+M.ª Victoria Miguel Andrés,Salamanca,Gestión y mantenimiento de inmuebles,+34923268465,Web mariavictoriamiguel.com no accesible (503) | Reintento: dominio comprometido (sirve spam/redirección); no usar
 Vial de Aguas,Salamanca,Mantenimiento piscinas,,Sin teléfono. Sin web propia (solo directorios)
 Bella Jardinería - Iván Mateos,Salamanca,Jardineria y Exteriores,+34618804767 / +34664809242,Sin web propia (solo Instagram); ficha con 2 entradas en la lista y datos de Instagram
-Jardinería La Encina Salamanca,Salamanca,Jardineria y Exteriores,,Sin teléfono. Web laencinasalamanca.com da 404
 Gerardo Martín - Administración de fincas,Salamanca,Gestión y mantenimiento de inmuebles,+34923095341,Sin web propia
-PCBox Salamanca,Salamanca,Soporte informático,+34923188118,Página de tienda en pcbox.com da 403; no verificable
+PCBox Salamanca,Salamanca,Soporte informático,+34923188118,Página de tienda en pcbox.com da 403; no verificable | Reintento: bloqueo Cloudflare 403 en la página de la tienda
 Burst Electrónica,Salamanca,Reparación de electrodomesticos y electrónica,+34923247843,Sin web propia
-Persianas Persal,Salamanca,Inst. persianas y toldos,,Sin teléfono. Web persianaspersal.com inaccesible
 Soy tu Manitas en Salamanca (grupo FB),Salamanca,Manitas,,Sin teléfono. Solo grupo de Facebook; no identificable
-Carpintería Boni,Salamanca,Carpinteria y ebanisteria,,Sin teléfono. Web bonicarpinteros.com inaccesible
+Carpintería Boni,Salamanca,Carpinteria y ebanisteria,,Sin teléfono. Web bonicarpinteros.com inaccesible | Reintento: bonicarpinteros.com no existe (NXDOMAIN)
 Pinturas Bernal,Salamanca,Pintura,,Sin teléfono. Sin web propia
 Carpintería Juan García,Salamanca,Carpinteria y ebanisteria,,Sin teléfono. Solo Instagram
 JM Carpintería-Ebanistería,Salamanca,Carpinteria y ebanisteria,,Sin teléfono. Solo Facebook/Instagram
 Cerrajero Salamanca 24h (Facebook),Salamanca,Cerrajeros,,Sin teléfono. Nombre genérico; no identificable
 Carpintería Víctor,Salamanca,Carpinteria y ebanisteria,,Sin teléfono. Web negocio.site da 404
-Multiservicios H&H,Salamanca,Manitas,+34665810433,Web obrasyservicioshh.es inaccesible
+Multiservicios H&H,Salamanca,Manitas,+34665810433,Web obrasyservicioshh.es inaccesible | Reintento: obrasyservicioshh.es ya no existe (NXDOMAIN)
 Asistencia Técnica Moreno,Salamanca,Reparación de electrodomesticos y electrónica,,Sin teléfono. Sin web propia (directorios: 923 21 80 79)
 Lorenzo Sánchez Muñoz,Salamanca,Mudanzas y transporte,,Sin teléfono. Sin web propia; autónomo

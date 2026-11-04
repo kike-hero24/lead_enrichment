@@ -1,5 +1,5 @@
 {
-  "ultima_ejecucion": "2026-11-04",
+  "ultima_ejecucion": "2026-11-04 (reintentos)",
   "lotes": [
     {
       "fecha": "2026-11-04",
@@ -37,6 +37,13 @@
       "fichas": 15,
       "lote": 6,
       "nota": "Últimas fichas elegibles (Tier 3). Antes del lote se añadieron 8 dominios propuestos del lote 5 + 2 emails (aprobado por el usuario)."
+    },
+    {
+      "fecha": "2026-11-04",
+      "modo": "real",
+      "fichas": 35,
+      "lote": "reintentos",
+      "nota": "Reintento de webs caídas/inaccesibles de lotes 1-6: 13 enriquecidas, 1 retenida (captación), 21 siguen a llamada."
     }
   ],
   "nota": "requiere_llamada = sin web propia o web inaccesible; no reintentar. retenida_intermediario = web de captación de terceros, sin escribir. conflicto_pendiente = detenido por conflicto; requiere revisión humana antes de escribir.",
@@ -88,7 +95,11 @@
       "entry_id": "e05c66d7-15cd-41b8-a65a-2642c70092d6",
       "nombre": "Marviz",
       "estado": "requiere_llamada",
-      "fecha": "2026-11-04"
+      "fecha": "2026-11-04",
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: TLS error / 404"
+      }
     },
     {
       "record_id": "4578c6d9-816b-4dbf-994a-c25b0638e14a",
@@ -108,22 +119,35 @@
       "record_id": "41eb7061-b62e-4b01-8010-82357a1e24bb",
       "entry_id": "ea227229-9eed-4236-a067-c19aa82c6d95",
       "nombre": "ZARYX Instalaciones",
-      "estado": "requiere_llamada",
-      "fecha": "2026-11-04"
+      "estado": "retenida",
+      "fecha": "2026-11-04",
+      "reintento_2026-11-04": {
+        "resultado": "retenida",
+        "nota": "Web accesible pero probable captación (923 799 012, plantilla CM4all, sin titular)"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "27c2b8ee-d0ca-4075-b241-9eb2632c6169",
       "entry_id": "486e3028-481b-4d90-a82a-c1948f5abf59",
       "nombre": "Talleres Eléctricos Lucas",
       "estado": "requiere_llamada",
-      "fecha": "2026-11-04"
+      "fecha": "2026-11-04",
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: DNS no resuelve; negocio en Alba de Tormes"
+      }
     },
     {
       "record_id": "374d527b-ff8c-49eb-96a3-e0ebf5c5bc8e",
       "entry_id": "479cfbb3-a3c2-4aa2-8c58-f1a5c96bec2c",
       "nombre": "Electricidad Reyes e Hijos",
       "estado": "requiere_llamada",
-      "fecha": "2026-11-04"
+      "fecha": "2026-11-04",
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: página de mantenimiento"
+      }
     },
     {
       "record_id": "6703af68-2ae9-41df-b386-ed7e1c2003a1",
@@ -144,7 +168,11 @@
       "entry_id": "245d883e-52bb-4894-9097-3e188ef49560",
       "nombre": "Redes Ópticas Salmantinas",
       "estado": "requiere_llamada",
-      "fecha": "2026-11-04"
+      "fecha": "2026-11-04",
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: redirige a fibritel.com (operador de fibra, vertical errónea)"
+      }
     },
     {
       "record_id": "887a3ac9-335d-4b45-aac3-ccf605b678f5",
@@ -165,7 +193,11 @@
       "entry_id": "2b122ff6-88a4-4e88-ad68-c77e5c16a98b",
       "nombre": "Martín Merchán, Juan Luis",
       "estado": "requiere_llamada",
-      "fecha": "2026-11-04"
+      "fecha": "2026-11-04",
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: electricom.es no responde; no se confirma titularidad"
+      }
     },
     {
       "record_id": "c36bf328-cce2-4fc6-9a50-90dea80367ce",
@@ -270,8 +302,13 @@
       "record_id": "c3eb4833-833f-4465-a24d-2eba9a9e52e3",
       "entry_id": "1dd124a3-b9f6-4edf-8c9f-c0eb329a50ef",
       "nombre": "Aquaform Instalación y Mantenimiento",
-      "estado": "requiere_llamada",
-      "fecha": "2026-11-04"
+      "estado": "enriquecida_reintento",
+      "fecha": "2026-11-04",
+      "reintento_2026-11-04": {
+        "resultado": "enriquecida_reintento",
+        "nota": "Web aquaform.es (mismo titular y email): p1/p2 fijos; fuente"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "6daab088-b7b0-4bfd-86e7-88a73162507e",
@@ -334,9 +371,14 @@
       "record_id": "44a9e862-9d35-4f09-ae2f-3f90d728f52c",
       "entry_id": "26eef1cf-3491-4009-80da-0324277d5d7c",
       "nombre": "Reformas Reis",
-      "estado": "requiere_llamada",
+      "estado": "enriquecida_reintento",
       "fecha": "2026-11-04",
-      "lote": 2
+      "lote": 2,
+      "reintento_2026-11-04": {
+        "resultado": "enriquecida_reintento",
+        "nota": "Web accesible por http: teléfono coincide; fuente"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "554034f1-4749-4738-aa44-344ddccc5001",
@@ -473,7 +515,11 @@
       "nombre": "Construcciones Herfoncal",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 2
+      "lote": 2,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: web no accesible desde aquí; el buscador muestra otro móvil (651075326) → posible conflicto"
+      }
     },
     {
       "record_id": "e8d6a8b2-13ea-4fdb-807f-1d00003562de",
@@ -618,9 +664,14 @@
       "record_id": "095f47ab-48d1-475a-9fe9-18a502e63394",
       "entry_id": "46fc2837-734a-47ce-8b56-2ee20d502419",
       "nombre": "Limpiezas Sillero S.L.",
-      "estado": "requiere_llamada",
+      "estado": "enriquecida_reintento",
       "fecha": "2026-11-04",
-      "lote": 2
+      "lote": 2,
+      "reintento_2026-11-04": {
+        "resultado": "enriquecida_reintento",
+        "nota": "Web accesible: dominio sillerolimpiezas.com, p1/p2; fuente aviso legal"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "0ae39286-c7f0-455b-bb1f-bfde75afe92e",
@@ -628,15 +679,24 @@
       "nombre": "Limpiezas Duende",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 2
+      "lote": 2,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: limpiezasduende.webs.com no accesible; ficha contaminada con datos de Vistaprint (dominio webs.com)"
+      }
     },
     {
       "record_id": "0b20fa11-dfd1-4ace-98d3-f54c9be6450f",
       "entry_id": "5fd8b387-c555-4583-96fa-5325a284a5cf",
       "nombre": "Guijo y Serna (Administradores de Fincas)",
-      "estado": "requiere_llamada",
+      "estado": "enriquecida_reintento",
       "fecha": "2026-11-04",
-      "lote": 2
+      "lote": 2,
+      "reintento_2026-11-04": {
+        "resultado": "enriquecida_reintento",
+        "nota": "Web leída con curl: p1/p2; fuente contacto"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "0bde285c-ccff-4b5a-a148-f4599ec6571f",
@@ -693,7 +753,11 @@
       "nombre": "Comunisal Administradores de Fincas",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 3
+      "lote": 3,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: comunisal.com redirige a Javier Rivas Real Estate; no confirmado"
+      }
     },
     {
       "record_id": "19b61a18-7bc3-4ae5-9665-63f0327dc006",
@@ -734,15 +798,24 @@
       "nombre": "PC MEGASTORE",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 3
+      "lote": 3,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: 503 mantenimiento"
+      }
     },
     {
       "record_id": "2506659f-2290-4ba3-bb9f-2a7668500efc",
       "entry_id": "93d4ea67-3e11-487d-821f-a8117f23924b",
       "nombre": "Pinturas Roma 2009 Salamanca",
-      "estado": "requiere_llamada",
+      "estado": "enriquecida_reintento",
       "fecha": "2026-11-04",
-      "lote": 3
+      "lote": 3,
+      "reintento_2026-11-04": {
+        "resultado": "enriquecida_reintento",
+        "nota": "Web accesible: p1 +34627218453; fuente pinturasroma2009.es"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "2931c6c4-86e8-4179-b958-ede31804a070",
@@ -836,9 +909,14 @@
       "record_id": "3e99752c-3e79-4902-8263-bb86f8139e4f",
       "entry_id": "44fc120b-7e11-4d9c-a121-29ec5bb7a5c4",
       "nombre": "Disan Pintura & Decoración",
-      "estado": "requiere_llamada",
+      "estado": "enriquecida_reintento",
       "fecha": "2026-11-04",
-      "lote": 3
+      "lote": 3,
+      "reintento_2026-11-04": {
+        "resultado": "enriquecida_reintento",
+        "nota": "Web accesible: p1 +34651118876; fuente disandecoracion.com"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "432605fe-ab53-4ffe-b51b-2a06b896c5d8",
@@ -852,9 +930,14 @@
       "record_id": "43a11397-c857-4e84-9aae-b81e1fc722aa",
       "entry_id": "d170081c-70f8-4058-a21b-e536443e38ff",
       "nombre": "Campus PC Informática",
-      "estado": "requiere_llamada",
+      "estado": "enriquecida_reintento",
       "fecha": "2026-11-04",
-      "lote": 3
+      "lote": 3,
+      "reintento_2026-11-04": {
+        "resultado": "enriquecida_reintento",
+        "nota": "Web accesible por http: persona info@campuspc.es; fuente"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "43de4c01-2048-4eda-a460-f060e76ca503",
@@ -910,7 +993,11 @@
       "nombre": "Decoraciones J.L. & Chamus",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 3
+      "lote": 3,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: dominio ya no existe (NXDOMAIN)"
+      }
     },
     {
       "record_id": "58160120-e399-48f5-be8b-d6b2f3ad67fd",
@@ -926,7 +1013,11 @@
       "nombre": "KR Informática 99 S.L.",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 3
+      "lote": 3,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: dominio vacío (IONOS) y kr-informatica.es no existe"
+      }
     },
     {
       "record_id": "5a4e5915-b3ae-4e21-8f4b-29112d07ff18",
@@ -942,7 +1033,11 @@
       "nombre": "Mudanzas Jesús",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 3
+      "lote": 3,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: dominio ya no existe (NXDOMAIN); SL inactiva en registros"
+      }
     },
     {
       "record_id": "62d32951-54cf-4722-9535-85476362d888",
@@ -964,9 +1059,14 @@
       "record_id": "69399c69-e9cc-4549-86cd-1ec53242de36",
       "entry_id": "b27a05b8-40c8-4bc7-8161-a33bcddcf78e",
       "nombre": "Impermeabilización y Pintura Moi6",
-      "estado": "requiere_llamada",
+      "estado": "enriquecida_reintento",
       "fecha": "2026-11-04",
-      "lote": 3
+      "lote": 3,
+      "reintento_2026-11-04": {
+        "resultado": "enriquecida_reintento",
+        "nota": "Web accesible por http: persona info@impermeabilizacionypinturamoi6.es; fuente"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "76b0fd0e-ecf2-4c30-be6b-092bf2a00502",
@@ -1038,7 +1138,11 @@
       "nombre": "Tot-Net",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 4
+      "lote": 4,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: bloqueo Cloudflare 403; empresa nacional con sede en Terrassa"
+      }
     },
     {
       "record_id": "95402a5f-7b10-4ef6-a1c9-f756ca17db86",
@@ -1070,7 +1174,11 @@
       "nombre": "Vanessa Blanco Casado",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 4
+      "lote": 4,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: dominio ya no existe (NXDOMAIN)"
+      }
     },
     {
       "record_id": "9a1f99eb-1859-4332-95ec-f8dea2b5750f",
@@ -1084,9 +1192,14 @@
       "record_id": "9b066ed0-e515-4854-bd44-07492c2ed377",
       "entry_id": "26309ff3-cbea-4cd5-b2e3-f998430d0a26",
       "nombre": "Pinturas Bragado S.L.",
-      "estado": "requiere_llamada",
+      "estado": "enriquecida_reintento",
       "fecha": "2026-11-04",
-      "lote": 4
+      "lote": 4,
+      "reintento_2026-11-04": {
+        "resultado": "enriquecida_reintento",
+        "nota": "Web accesible por http: p2 +34923246389; persona correo@pinturasbragado.com; fuente"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "9dbbc3f0-2f08-4512-ac6c-816c711eacaf",
@@ -1151,7 +1264,11 @@
       "nombre": "TODO EN CASA",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 4
+      "lote": 4,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: dominios .com/.es ya no existen (NXDOMAIN)"
+      }
     },
     {
       "record_id": "affa7bab-7dfa-4b07-820b-2d6e2a7e7f32",
@@ -1159,15 +1276,24 @@
       "nombre": "Kevin Jardinería y Limpiezas",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 4
+      "lote": 4,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: kevinjardineria.com y jardineriakevin.es no existen (NXDOMAIN)"
+      }
     },
     {
       "record_id": "b0034075-eb8e-48f5-818e-a92a04245216",
       "entry_id": "8ae78262-7123-447c-aeb4-dcb7bda0446f",
       "nombre": "SOQUIMSA S.L.",
-      "estado": "requiere_llamada",
+      "estado": "enriquecida_reintento",
       "fecha": "2026-11-04",
-      "lote": 4
+      "lote": 4,
+      "reintento_2026-11-04": {
+        "resultado": "enriquecida_reintento",
+        "nota": "Web accesible por http: p1 +34649965346; fuente aviso legal"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "b280bccd-8cb7-4032-9e3f-c98aaf7754e2",
@@ -1189,9 +1315,14 @@
       "record_id": "b8570508-752e-4967-8794-6cc908529a8d",
       "entry_id": "21c2b3d7-cade-4331-b6da-6583e97618c7",
       "nombre": "Jardinería Monte Nuevo",
-      "estado": "requiere_llamada",
+      "estado": "enriquecida_reintento",
       "fecha": "2026-11-04",
-      "lote": 4
+      "lote": 4,
+      "reintento_2026-11-04": {
+        "resultado": "enriquecida_reintento",
+        "nota": "Web leída con curl: persona info@jardineriamontenuevo.com; fuente"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "ba591d8b-25f5-409e-bd8c-b39d42e2358c",
@@ -1255,7 +1386,11 @@
       "nombre": "Administración de Fincas María José Navarro",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 4
+      "lote": 4,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: dominio ya no existe (NXDOMAIN)"
+      }
     },
     {
       "record_id": "c99b7523-14e7-4ec5-afe5-f8b372299906",
@@ -1367,7 +1502,11 @@
       "nombre": "M.ª Victoria Miguel Andrés",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 4
+      "lote": 4,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: dominio comprometido (sirve spam/redirección); no usar"
+      }
     },
     {
       "record_id": "ec6fb4ec-9da4-4051-8be8-4eaa0f08dbe5",
@@ -1421,9 +1560,14 @@
       "record_id": "f0403974-dfae-4fc1-b722-dc7f9cb677d3",
       "entry_id": "bad7869e-a39e-4bbd-bb4a-a5c85a01caaa",
       "nombre": "Jardinería La Encina Salamanca",
-      "estado": "requiere_llamada",
+      "estado": "enriquecida_reintento",
       "fecha": "2026-11-04",
-      "lote": 5
+      "lote": 5,
+      "reintento_2026-11-04": {
+        "resultado": "enriquecida_reintento",
+        "nota": "Web laencinasalamanca.es: p1/p2 + comentario; fuente"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "f11ae9dc-f9a0-4314-816e-fe22704b1eb7",
@@ -1479,7 +1623,11 @@
       "nombre": "PCBox Salamanca",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 5
+      "lote": 5,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: bloqueo Cloudflare 403 en la página de la tienda"
+      }
     },
     {
       "record_id": "f98458e9-47b6-4a69-933b-21b1c1349f1e",
@@ -1566,9 +1714,14 @@
       "record_id": "28784f8f-733b-4aad-99f9-1788add7dbb7",
       "entry_id": "f5ede4ea-d719-49e6-a2e8-905955aa348f",
       "nombre": "Persianas Persal",
-      "estado": "requiere_llamada",
+      "estado": "enriquecida_reintento",
       "fecha": "2026-11-04",
-      "lote": 5
+      "lote": 5,
+      "reintento_2026-11-04": {
+        "resultado": "enriquecida_reintento",
+        "nota": "Web Wix (CNAME de www.persianaspersal.com): p1 +34923091035; fuente"
+      },
+      "estado_previo": "requiere_llamada"
     },
     {
       "record_id": "2fdbfc48-56ea-41b7-a663-98818ba4969d",
@@ -1624,7 +1777,11 @@
       "nombre": "Carpintería Boni",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 5
+      "lote": 5,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: bonicarpinteros.com no existe (NXDOMAIN)"
+      }
     },
     {
       "record_id": "4621b77d-d916-44bc-99e9-37b3471bcb66",
@@ -1842,7 +1999,11 @@
       "nombre": "Multiservicios H&H",
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
-      "lote": 6
+      "lote": 6,
+      "reintento_2026-11-04": {
+        "resultado": "requiere_llamada",
+        "nota": "Reintento: obrasyservicioshh.es ya no existe (NXDOMAIN)"
+      }
     },
     {
       "record_id": "c25e380e-9560-4ae9-8c9f-da64914eaf94",
