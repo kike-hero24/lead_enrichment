@@ -110,3 +110,23 @@ Es una sola empresa con muchas marcas o webs. **Recomendación:** consolidarla e
 - **Pasan a llamada:** 3 (2 de ellas sin ningún teléfono)
 
 **Slack:** Enriquecimiento 04/11 (lote 6, final): 8 dominios aprobados añadidos; últimas 15 fichas → 7 con dato (9 tel., 2 emails, 3 dominios), 3 a llamada, 5 retenidas. Jornada completa: 235 fichas procesadas, 134 con dato, 80 a llamada; no quedan fichas elegibles. Ojo a las redes de captación (PROMANTEC 24, Yavoi, serie 923 79 3x).
+
+## 5. Consolidación de PROMANTEC 24 (aprobada por el usuario)
+
+Las 6 fichas de PROMANTEC 24, S.L. se fusionaron en Attio en **una sola empresa** (`b3424d8f-4f61-4de0-b560-678e3b8958a4`). La principal fue electricistasalamanca.es, que tiene confianza Alta y la fuente del aviso legal.
+
+**Fichas fusionadas:**
+- electricistasalamanca.es
+- reformas-salamanca.es
+- carpinteriasalamanca.es
+- impermeabilizacionessalamanca.es
+- desatascosdesatrancoslimpiezassalamanca.info
+- fontanero-salamanca.es (la que estaba en Outreach)
+
+**Ficha resultante:**
+- 4 dominios y 6 verticales: Electricista, Reformas, Pintura, Carpintería, Desatascos y Fontanería.
+- La persona info@reparacion24.es.
+- Fuente: el aviso legal de electricistasalamanca.es. Confianza Alta.
+- El nombre quedó como «electricistasalamanca.es». No se cambió, porque CLAUDE.md prohíbe tocar `name`.
+
+**Pendiente:** la empresa tiene **6 entradas** en la lista: 1 en Outreach (`914e6832`, la de referencia, con un comentario) y 5 duplicadas en Prospect Discovery. No se han eliminado porque CLAUDE.md prohíbe borrar. Hay que decidir si se quitan.

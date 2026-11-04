@@ -207,7 +207,8 @@
       "entry_id": "bd395a50-1ab2-4563-b528-7f0a25ab31ea",
       "nombre": "electricistasalamanca.es",
       "estado": "enriquecida",
-      "fecha": "2026-11-04"
+      "fecha": "2026-11-04",
+      "fusionada_en": "b3424d8f-4f61-4de0-b560-678e3b8958a4"
     },
     {
       "record_id": "88791d54-8bbf-4498-bf26-b6d5cb0f2da0",
@@ -569,7 +570,8 @@
       "nombre": "Reformas Salamanca / Promantec24",
       "estado": "enriquecida",
       "fecha": "2026-11-04",
-      "lote": 2
+      "lote": 2,
+      "fusionada_en": "b3424d8f-4f61-4de0-b560-678e3b8958a4"
     },
     {
       "record_id": "b51b4dcd-79ee-4c04-982d-ece5fce90bc6",
@@ -1517,7 +1519,8 @@
       "nombre": "Carpintería Salamanca (carpinteriasalamanca.es)",
       "estado": "enriquecida",
       "fecha": "2026-11-04",
-      "lote": 5
+      "lote": 5,
+      "fusionada_en": "b3424d8f-4f61-4de0-b560-678e3b8958a4"
     },
     {
       "record_id": "0e350c61-8cea-49ab-89e5-03071f676349",
@@ -1773,7 +1776,8 @@
       "nombre": "desatascosdesatrancoslimpiezassalamanca.info",
       "estado": "retenida_duplicado_promantec24",
       "fecha": "2026-11-04",
-      "lote": 6
+      "lote": 6,
+      "fusionada_en": "b3424d8f-4f61-4de0-b560-678e3b8958a4"
     },
     {
       "record_id": "f7f9e9c9-7ce2-4f5a-b532-6ac4a55f5343",
@@ -1813,7 +1817,8 @@
       "nombre": "Impermeabilizaciones Salamanca",
       "estado": "retenida_duplicado_promantec24",
       "fecha": "2026-11-04",
-      "lote": 6
+      "lote": 6,
+      "fusionada_en": "b3424d8f-4f61-4de0-b560-678e3b8958a4"
     },
     {
       "record_id": "d3ac0558-fabe-4d64-8ac7-36bebd5fd9b5",
@@ -1894,5 +1899,31 @@
     "4f199fd7-7ba7-4f16-b95d-4156a7515884"
   ],
   "resoluciones_2026-11-04": "Aurelma: email corregido a aurelma@aurelma.es + 2 teléfonos. Construcciones González: teléfonos de la web sustituyen al anterior (+34616486580, anotado en comentario) + email. 9 dominios propuestos añadidos (+5 emails). 3 webs de captación descartadas (comentario en la entrada; stage no modificado).",
-  "estado_global": "Sin fichas elegibles pendientes a 2026-11-04 (todas las de Prospect Discovery/Qualification sin Fuente+Confianza ya procesadas)."
+  "estado_global": "Sin fichas elegibles pendientes a 2026-11-04 (todas las de Prospect Discovery/Qualification sin Fuente+Confianza ya procesadas).",
+  "consolidaciones": [
+    {
+      "fecha": "2026-11-04",
+      "empresa": "PROMANTEC 24, S.L. (B37517109)",
+      "record_id_resultante": "b3424d8f-4f61-4de0-b560-678e3b8958a4",
+      "fusionados": [
+        "059235b0-3c8e-4362-9291-4dbb3221081f",
+        "30dacda9-978f-4c22-beda-a9f6ce2f43c5",
+        "a522c42b-5a91-44d2-9ff8-55d06fdd4e4b",
+        "b4ca5e3f-7682-4a92-887d-8132e081ffe5",
+        "e08b829a-24bc-4ff5-bbe2-0d1a0292bb5f",
+        "f003662b-9a86-41fe-b9c8-bf9a3c113c64"
+      ],
+      "principal": "30dacda9 (electricistasalamanca.es)",
+      "entradas_lista": {
+        "referencia_outreach": "914e6832-59ad-4883-913e-028edc98a868",
+        "duplicadas_pendientes": [
+          "1fba2ad9-efce-4e7c-ad50-db69245bd4e8",
+          "510c1a87-41fd-4237-ac9f-df25d35e950c",
+          "8979791b-190b-43b1-959b-40a302296ab9",
+          "bd395a50-1ab2-4563-b528-7f0a25ab31ea",
+          "c782e317-3224-461e-a1bf-96512ea8cbda"
+        ]
+      }
+    }
+  ]
 }
