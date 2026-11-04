@@ -24,6 +24,12 @@
       "fichas": 50,
       "lote": 4,
       "nota": "Detenido en ficha 19 (Moñita) por conflicto; reanudado tras aprobación del usuario (Moñita y CUPOSOL con datos de la web)."
+    },
+    {
+      "fecha": "2026-11-04",
+      "modo": "real",
+      "fichas": 50,
+      "lote": 5
     }
   ],
   "nota": "requiere_llamada = sin web propia o web inaccesible; no reintentar. retenida_intermediario = web de captación de terceros, sin escribir. conflicto_pendiente = detenido por conflicto; requiere revisión humana antes de escribir.",
@@ -1353,6 +1359,406 @@
       "estado": "requiere_llamada",
       "fecha": "2026-11-04",
       "lote": 4
+    },
+    {
+      "record_id": "ec6fb4ec-9da4-4051-8be8-4eaa0f08dbe5",
+      "entry_id": "98b0ee1f-cf2c-45ab-b00d-49ce6769d5fc",
+      "nombre": "Transportes y Mudanzas Camer",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "ec8d0e13-f7f0-48c7-8437-3489055e9580",
+      "entry_id": "7f2fb559-6b18-4e2f-910f-5945696f33fc",
+      "nombre": "Vial de Aguas",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "ed6e8362-53ba-490d-bcb2-23f4401b86f0",
+      "entry_id": "891237e7-04ac-451f-ac31-224c4efae3f9",
+      "nombre": "ADMICOCO - Pilar Pérez Coco",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "edfa669b-ad3f-4998-986f-325a5fdf45e3",
+      "entry_id": "7ce5d5be-3140-4b73-9b6c-c11606dda687",
+      "nombre": "Infoval",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "ee76d029-26d0-4a77-8917-78cf23bba792",
+      "entry_id": "a647f135-d010-4d53-a801-f988eb29228a",
+      "nombre": "Bella Jardinería - Iván Mateos",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "ef9603c8-83c8-4831-952a-2bad2561220b",
+      "entry_id": "0c414725-4e6f-43c9-8dca-f725b55748f3",
+      "nombre": "MUSERSA",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "f0403974-dfae-4fc1-b722-dc7f9cb677d3",
+      "entry_id": "bad7869e-a39e-4bbd-bb4a-a5c85a01caaa",
+      "nombre": "Jardinería La Encina Salamanca",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "f11ae9dc-f9a0-4314-816e-fe22704b1eb7",
+      "entry_id": "806c21a1-7a91-4fc7-be67-9d1cd162c911",
+      "nombre": "Manitas Services DB",
+      "estado": "retenida_fuera_de_zona",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "f1e77e87-fa6d-4351-b139-9291040ebd26",
+      "entry_id": "f79e122e-eebc-424e-a0ad-0b0dbc69095b",
+      "nombre": "KEYHOM",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "f28a649d-b512-4d20-bd38-bd649291f8c2",
+      "entry_id": "7c8132e9-8912-4901-8d32-fd5ca1fa4b22",
+      "nombre": "Mudanzas en Salamanca Exprés",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "f3d23634-5597-4f00-8afe-c0615a8c15c6",
+      "entry_id": "b3b07773-c64a-4b58-8a81-91b85af7d9d1",
+      "nombre": "Toldos La Estrella",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "f3df8c1e-4591-4adb-b8fd-524ef776e267",
+      "entry_id": "fc32bf2a-d6d6-4f97-9403-c29fc0ab0917",
+      "nombre": "Gerardo Martín - Administración de fincas",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "f5081cdf-fed5-48b5-b459-0bddef699dfe",
+      "entry_id": "81d7206c-a6e4-4d23-9933-5aeee72176b1",
+      "nombre": "XEFI Salamanca",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "f5aabb79-3950-4c81-9e39-fcc823bfdf02",
+      "entry_id": "7f26e1f2-efdf-4bdf-91b7-52d875469cf5",
+      "nombre": "PCBox Salamanca",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "f98458e9-47b6-4a69-933b-21b1c1349f1e",
+      "entry_id": "bef04a78-b15c-480e-8ac9-94eaa5c79cdf",
+      "nombre": "RESUIVAL",
+      "estado": "saltada_ya_tenia_fuente_y_confianza",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "fafaa6e7-d5c6-4698-bf04-9349314579dc",
+      "entry_id": "c043434c-19a0-44b7-8395-92a08fb4d766",
+      "nombre": "Sertec Digital",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "fb571ef0-c148-4c49-8fc7-db31c9dc14b1",
+      "entry_id": "dc26ff7c-8acf-42cb-ab09-232354341ac4",
+      "nombre": "Multiexpósito Fernández",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "fbbf877c-c489-40e1-a380-998d8dcfb739",
+      "entry_id": "8ce7e93f-735b-4b55-a797-a32534d0ec75",
+      "nombre": "Burst Electrónica",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "059235b0-3c8e-4362-9291-4dbb3221081f",
+      "entry_id": "c782e317-3224-461e-a1bf-96512ea8cbda",
+      "nombre": "Carpintería Salamanca (carpinteriasalamanca.es)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "0e350c61-8cea-49ab-89e5-03071f676349",
+      "entry_id": "9bec5390-b0cf-499f-aba2-c15cee43f9c6",
+      "nombre": "Limpieza Salamanca",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "13ced341-9088-4c99-ba28-332f3cf1587e",
+      "entry_id": "06357854-d39e-4dac-87fa-ece1a362c8b7",
+      "nombre": "Ayúdate",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "19c64260-d336-48e0-9418-d6714c763dec",
+      "entry_id": "fb9bc234-dc30-403c-9117-371d5971ba64",
+      "nombre": "Limpiezas Morán",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "23d0b16f-967a-4193-af7d-63bd68871ced",
+      "entry_id": "f4f53aa7-2abb-4a74-84e9-b053b17ec728",
+      "nombre": "Grupo SATMAM",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "23fcf56b-473b-45dc-9e93-9deab526e8c5",
+      "entry_id": "c2f5262f-c68c-4637-98dc-cd0a081c8280",
+      "nombre": "Cerrajeros Salamanca (cerrajerosalamanca.es)",
+      "estado": "retenida_intermediario",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "28784f8f-733b-4aad-99f9-1788add7dbb7",
+      "entry_id": "f5ede4ea-d719-49e6-a2e8-905955aa348f",
+      "nombre": "Persianas Persal",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "2fdbfc48-56ea-41b7-a663-98818ba4969d",
+      "entry_id": "41d3f32b-b7db-4a4e-aeb5-b21d30bf0df7",
+      "nombre": "CharroDesatascos",
+      "estado": "retenida_intermediario",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "36302a27-96be-4ef0-a33b-b327f9c4e6aa",
+      "entry_id": "cff2ee29-8a8b-40f2-b23a-54332da1bee1",
+      "nombre": "Muebles José Ángel",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "384283d7-15b1-4a07-9b73-d136ba7c6a22",
+      "entry_id": "647023f4-a228-4b0e-bed6-3f23c31fa002",
+      "nombre": "Soy tu Manitas en Salamanca (grupo FB)",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "3e9ac284-3490-46ee-a1cf-fda986f5637d",
+      "entry_id": "8bfc2f0e-6ba2-4076-bbe8-a79c0cfc271f",
+      "nombre": "Carpeban Stilo",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "3f297bc9-2266-49d8-b27c-807c51be0986",
+      "entry_id": "223ec2b7-6d03-4cd5-abf2-8a590967580a",
+      "nombre": "Salamanca Home Select",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "3f93af44-f221-41ed-b524-2876ac635ea4",
+      "entry_id": "bdc4d3bb-462a-4d90-a946-961139a3b259",
+      "nombre": "TecnoSalamanca",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "4160d10b-93b1-4ac8-a93e-82bc923f7800",
+      "entry_id": "259f3be7-7500-4ad7-bf10-3d3aed8e150b",
+      "nombre": "Carpintería Boni",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "4621b77d-d916-44bc-99e9-37b3471bcb66",
+      "entry_id": "ec3b5be2-d080-4c3a-9a56-2273e9711486",
+      "nombre": "Administración de Fincas enSalamanca",
+      "estado": "retenida_revisar_ficha",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "4724777c-c10e-4a2d-b193-99c6ca3ed9d8",
+      "entry_id": "800f03e5-bed1-48d0-8d10-f6b87321b965",
+      "nombre": "Limpieza y Mantenimiento Víctor Hernández",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "493da88d-a1b8-4dbd-a01d-61c5d85029d4",
+      "entry_id": "fc9b10ac-06a5-4709-a9ed-56d273f7b405",
+      "nombre": "Limpiezas Cees",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "5f0dd9b1-0578-4c35-9491-4e4c526dc668",
+      "entry_id": "63a736be-29a7-406a-b6a1-386bbcb89379",
+      "nombre": "SATALI Rent",
+      "estado": "retenida_fuera_de_zona",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "60babd1c-f694-4952-9d65-80a5f9769d43",
+      "entry_id": "c50e5629-7b7a-42ad-9292-3cc4a3a73c50",
+      "nombre": "Pinturas Bernal",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "6152aad2-5ea4-4622-85f5-15fa122ce021",
+      "entry_id": "dbf56598-a79c-4bcd-8ca5-b34ab743c306",
+      "nombre": "Grupo Limcasa",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "62a1fde8-e780-45c8-a12c-b031e9d1334c",
+      "entry_id": "bf445f40-8802-4533-ad31-e28bb89f9381",
+      "nombre": "Carpintería Juan García",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "671495a4-6166-4b90-925c-d7fa1eb94efb",
+      "entry_id": "8b98453d-c356-482f-9a85-32384439572c",
+      "nombre": "Bufete Iglesias",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "69ca2c7b-f574-4be0-a2cd-fe6bac227847",
+      "entry_id": "a4e57014-c62d-4f24-a470-d0ff7f60e0c0",
+      "nombre": "Carpintería Ebanistería CalPe",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "70fab236-8bd0-4b0d-b27b-735b25de1865",
+      "entry_id": "1f9af412-69be-4bd7-9fb1-55aeb460e2da",
+      "nombre": "JM Carpintería-Ebanistería",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "7d087b62-75d0-4d95-94e0-694f7ea0137d",
+      "entry_id": "452c506f-a9a1-497c-9e83-cf8b508215de",
+      "nombre": "Cerrajero Salamanca 24h (Facebook)",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "82408687-fc02-4765-9e35-6f4fd64e6f36",
+      "entry_id": "b6ff5e34-40a9-4663-8d0e-d91cf7cc6cf8",
+      "nombre": "TecPyme",
+      "estado": "retenida_intermediario",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "99c485c4-37bb-4441-af39-e5f29689c078",
+      "entry_id": "42d032a7-c1ec-441a-abde-17da0986383b",
+      "nombre": "Pintura Hogar Salamanca",
+      "estado": "retenida_intermediario",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "99c67fa9-672a-422c-a1f4-d4eb28e4c998",
+      "entry_id": "2eb52cf1-772d-43d7-98b2-76dee622b794",
+      "nombre": "Pintura y Decoración José Luis",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "9d088767-c624-466a-991e-2d86d523d48a",
+      "entry_id": "3e9cffe3-d889-4a6e-92c3-15c21cb14494",
+      "nombre": "Empresa de limpieza Salamanca",
+      "estado": "retenida_intermediario",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "9f5f53d2-350e-4868-8235-85e477f4e422",
+      "entry_id": "76f25375-c003-4019-acf0-77fc709edc19",
+      "nombre": "Antonio Esteban e Hijos S.L.",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "ab5f5089-d148-4dab-bd0c-f459ff8bdf52",
+      "entry_id": "bbe1d17e-3f60-4581-a45d-dada6d6b6955",
+      "nombre": "Carpintería Víctor",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 5
+    },
+    {
+      "record_id": "ada5d97c-f589-4cbe-8d0f-e23b81bce459",
+      "entry_id": "2abe27b5-9420-4602-9866-a9496aad9e7e",
+      "nombre": "RISUEÑO - Administración de fincas",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 5
     }
   ],
   "excluidos_no_en_lista": [
