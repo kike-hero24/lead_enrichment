@@ -1,0 +1,23 @@
+record_id,nombre,campo,valor_actual,valor_propuesto,url_fuente,confianza
+f6b278de-83fb-4cfb-8428-fe87f882ca34,Fontanería Sin Obras CyL,email (persona nueva en team),,info@fontaneriasinobrascyl.com,https://fontaneriasinobrascyl.com/contacto/,Alta
+f6b278de-83fb-4cfb-8428-fe87f882ca34,Fontanería Sin Obras CyL,fuente,,https://fontaneriasinobrascyl.com/contacto/,https://fontaneriasinobrascyl.com/contacto/,Alta
+f6b278de-83fb-4cfb-8428-fe87f882ca34,Fontanería Sin Obras CyL,confianza_del_dato,,Alta,https://fontaneriasinobrascyl.com/contacto/,Alta
+f6b278de-83fb-4cfb-8428-fe87f882ca34,Fontanería Sin Obras CyL,phone_number_2,+34600971972,"(confirmado en web, sin cambio)",https://fontaneriasinobrascyl.com/contacto/,Alta
+f6b278de-83fb-4cfb-8428-fe87f882ca34,Fontanería Sin Obras CyL,phone_number,+34692494503,(no aparece en la web; se mantiene),,—
+f6b278de-83fb-4cfb-8428-fe87f882ca34,Fontanería Sin Obras CyL,comentario (propuesta),,Email alternativo info@fsocyl.com (otro dominio) en aviso legal,https://fontaneriasinobrascyl.com/aviso-legal/,Baja
+15c92cb7-74c6-46a1-9351-51624c475763,Limcasa Fontanería,phone_number,+34923258996,"(confirmado en web, sin cambio)",https://limcasafontaneria.es/aviso-legal/,Alta
+15c92cb7-74c6-46a1-9351-51624c475763,Limcasa Fontanería,fuente,,https://limcasafontaneria.es/aviso-legal/,https://limcasafontaneria.es/aviso-legal/,Alta
+15c92cb7-74c6-46a1-9351-51624c475763,Limcasa Fontanería,confianza_del_dato,,Alta,https://limcasafontaneria.es/aviso-legal/,Alta
+15c92cb7-74c6-46a1-9351-51624c475763,Limcasa Fontanería,domains (propuesta),,limcasafontaneria.es,https://limcasafontaneria.es/,Alta
+15c92cb7-74c6-46a1-9351-51624c475763,Limcasa Fontanería,"email (propuesta, NO fiable)",,info@limcafontaneria.es (dominio no coincide con la web: posible errata),https://limcasafontaneria.es/aviso-legal/,Baja
+46c92b24-8d6a-4919-980b-b63cea7b7965,Fontanero Salamanca - Instalaciones y Reparaciones,phone_number,+34923793496,"(confirmado en web, sin cambio)",https://www.fontaneroensalamanca.es/contacto,Alta
+46c92b24-8d6a-4919-980b-b63cea7b7965,Fontanero Salamanca - Instalaciones y Reparaciones,fuente,,https://www.fontaneroensalamanca.es/contacto,https://www.fontaneroensalamanca.es/contacto,Alta
+46c92b24-8d6a-4919-980b-b63cea7b7965,Fontanero Salamanca - Instalaciones y Reparaciones,confianza_del_dato,,Alta,https://www.fontaneroensalamanca.es/contacto,Alta
+9f339147-c3a7-45d5-b1a2-0cc4a6f75a10,Fontaneria Pablo Sánchez,fuente (requiere aprobación),,https://www.cylex.es/salamanca/fontaneria-pablo-s%C3%A1nchez-12864790.html,https://www.cylex.es/salamanca/fontaneria-pablo-s%C3%A1nchez-12864790.html,Baja
+9f339147-c3a7-45d5-b1a2-0cc4a6f75a10,Fontaneria Pablo Sánchez,confianza_del_dato (requiere aprobación),,Baja,https://www.cylex.es/salamanca/fontaneria-pablo-s%C3%A1nchez-12864790.html,Baja
+5ddb4a16-5c9f-4bb6-900f-04305f607e76,MULTISERVICIOS SALAMANCA,SIN DATO,+34646698740,Sin web propia; varias empresas con el mismo nombre,,—
+8a8eafc8-82b0-453f-b70e-ff08f6ade5f8,Fontanería y Calefacción Salamanca,SIN DATO,+34629084223,"El dominio aireycalefaccion.es es un directorio, no la web del negocio",,—
+0e852411-bc5d-4d37-8fbc-81d32f9c77e7,Evaristo González Barrado,SIN DATO,+34923253673,Sin web propia; solo directorios (teléfono coincide),,—
+2e6bde62-47ed-496e-b8f6-477400c0d8fa,Marviz,SIN DATO,+34680281484,marviz.es no accesible (error SSL); solo directorios (teléfono coincide),,—
+4578c6d9-816b-4dbf-994a-c25b0638e14a,Miguel Ángel Montejo Blanco,SIN DATO,+34609821390,Sin web propia; solo directorios,,—
+41eb7061-b62e-4b01-8010-82357a1e24bb,ZARYX Instalaciones,SIN DATO,+34923799012,zaryxinstalaciones.es no accesible (certificado no válido); sin resultados en búsqueda,,—
