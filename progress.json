@@ -5,9 +5,15 @@
       "fecha": "2026-11-04",
       "modo": "real",
       "fichas": 40
+    },
+    {
+      "fecha": "2026-11-04",
+      "modo": "real",
+      "fichas": 6,
+      "detenido": "conflicto en Aurelma (email existente distinto del publicado en la web)"
     }
   ],
-  "nota": "requiere_llamada = sin web propia o web inaccesible; no reintentar. retenida_intermediario = web de captación de terceros, sin escribir.",
+  "nota": "requiere_llamada = sin web propia o web inaccesible; no reintentar. retenida_intermediario = web de captación de terceros, sin escribir. conflicto_pendiente = detenido por conflicto; requiere revisión humana antes de escribir.",
   "procesados": [
     {
       "record_id": "5ddb4a16-5c9f-4bb6-900f-04305f607e76",
@@ -288,6 +294,54 @@
       "nombre": "IC Multiservicios Obras y Reformas S.L.",
       "estado": "enriquecida",
       "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "3ea408a4-652d-43d5-9282-de9df298ed0c",
+      "entry_id": "781a3bbc-35a6-43d9-8e7f-d5beb181e552",
+      "nombre": "Ingrinamar (Limpiezas y reformas)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "44a9e862-9d35-4f09-ae2f-3f90d728f52c",
+      "entry_id": "26eef1cf-3491-4009-80da-0324277d5d7c",
+      "nombre": "Reformas Reis",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "554034f1-4749-4738-aa44-344ddccc5001",
+      "entry_id": "78c613c3-f293-459a-9fdc-e8c8f1c18a89",
+      "nombre": "Construcciones Reformas y Servicios San Agustín",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "64284c8f-c58a-48f3-b46d-d3a2b2f10398",
+      "entry_id": "00299b03-908f-4ac3-b41c-be198c83b7e1",
+      "nombre": "Oyrsa Constructora",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "6d2b6445-0545-4721-9865-fadf03cd9b9b",
+      "entry_id": "583b12c7-c92e-45c1-8551-3de5a47ead20",
+      "nombre": "Reformálitas",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04",
+      "lote": 2
+    },
+    {
+      "record_id": "6f642279-9428-43e2-8c01-757016acddbd",
+      "entry_id": "b2b10144-042e-4758-8d59-d1432d58093d",
+      "nombre": "Aurelma S.L. Construcciones",
+      "estado": "conflicto_pendiente",
+      "fecha": "2026-11-04",
+      "lote": 2
     }
   ],
   "excluidos_no_en_lista": [
