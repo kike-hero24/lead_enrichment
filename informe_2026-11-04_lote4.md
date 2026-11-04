@@ -1,6 +1,8 @@
-# Informe de enriquecimiento — 2026-11-04 · Lote 4 (modo real) — DETENIDO POR CONFLICTO
+# Informe de enriquecimiento — 2026-11-04 · Lote 4 (modo real) — COMPLETADO
 
-Lista: `supplier_acquisition_pipeline` · Checkpoint acumulado: `progress.json` (139 fichas) · Llamadas: `requiere_llamada.csv` (33)
+Lista: `supplier_acquisition_pipeline` · Checkpoint acumulado: `progress.json` (170 fichas) · Llamadas: `requiere_llamada.csv` (44)
+
+> El lote se detuvo en la ficha 19 por conflicto (Toldos Moñita). Tras tu aprobación («pon los datos de la web») se resolvieron Moñita y CUPOSOL y se completaron las fichas 20-50. Ver sección 6.
 
 ## 1. Resoluciones aprobadas por el usuario (aplicadas antes del lote)
 
@@ -75,14 +77,90 @@ Las fichas 20 a 50 **no están en `progress.json`** y entrarán en el siguiente 
 ## 5. URLs usadas (fichas escritas)
 https://tecnyvan.com/aviso-legal/ · https://tecnyvan.com/en/where-are-we-based/ · https://lunaliatech.com/legal/aviso-legal.html · https://sucesoresdemoreno.com/136-2/ · https://www.falkeninformaticasalamanca.com/find-us · https://manyman.es/contacto · https://www.mudanzastormessalamanca.com/ · https://artistagarcia.com/contacto/ · https://www.movilnext.es/contacto/ · https://monita.es/
 
-## Cierre
+## 6. Reanudación tras aprobación (fichas 19-50)
 
-- **Procesadas:** 19 (de las 50 seleccionadas; detenido por conflicto)
-- **Con dato escrito:** 8
-- **Sin dato:** 11
-  - 9 pasan a llamada
-  - 1 retenida
-  - 1 conflicto
-- **Pasan a llamada:** 9 (1 de ellas sin ningún teléfono)
+### Conflictos resueltos con tu aprobación
 
-**Slack:** Enriquecimiento 04/11 (lote 4): resoluciones aplicadas (Aurelma, Construcciones González, 9 dominios, 3 descartes). Lote detenido en la ficha 19 por conflicto en Toldos Moñita (dominio de otra empresa) → 19 procesadas, 8 con dato, 9 a llamada; 31 investigadas pendientes (otro conflicto ya detectado: CUPOSOL).
+**Toldos Moñita**
+- Dominio cambiado de `toldossalamanca.es` a **monita.es**.
+- La persona `info@toldossalamanca.es`, de otra empresa, se ha **desvinculado** de la ficha. No se ha borrado.
+- Añadidos `salamanca@monita.es` y los teléfonos +34923190214 / +34923194224.
+- Comentario en la entrada.
+- ⚠️ Al cambiar el dominio, el enriquecimiento automático de Attio rellenó la `primary_location` con **Coslada (Madrid)**, que es la sede central. `primary_city` sigue siendo Salamanca.
+
+**CUPOSOL**
+- Teléfonos de la web +34658855968 / +34923204382, que sustituyen al +34615113027.
+- El número anterior queda en un comentario.
+
+### Enriquecidas (20, incluidas las dos anteriores)
+
+| Ficha | Teléfonos escritos | Persona/email | Dominio | WhatsApp |
+|---|---|---|---|---|
+| Toldos Moñita | +34923190214 / +34923194224 | salamanca@monita.es | monita.es (cambiado) | No |
+| Mudanzas A. Alonso | +34659767124 | (ya existía, hotmail) | propuesta: mudanzasaalonso.es (Carbajosa) | No |
+| Persianas Ruano Monzón | +34923233808 / +34923228299 | (ya existía) | — | No |
+| SEILA | p1 +34923203529 (p2 ya coincidía) | (ya existía) | — | **Sí** |
+| Limpieza General Salamanca | +34657126616 / +34923096243 | (ya existía, gmail) | limpiezageneralsalamanca.es | No |
+| Gestión VUT Salamanca | p2 +34682700275 (p1 ya coincidía) | info@gestionvutsalamanca.com | gestionvutsalamanca.com | No |
+| Limpiezas Mar Cabezas | +34923264139 | (ya existía, gmail) | limpiezasmarcabezassl.com | No |
+| Factoría PC | p2 +34644561930 (p1 ya coincidía) | — (info@factoriapc.com, otro dominio) | — | indicado en texto |
+| CUPOSOL | +34658855968 / +34923204382 | (ya existía) | — | No |
+| LuPagest | +34679956111 / +34923175427 | (ya existía) | propuesta: lupagestsalamanca.es (ya tiene .com) | No |
+| Helsein | +34661955885 / +34610264568 (+ comentario con el 24 h) | (ya existía) | — | **Sí** |
+| Grupo CAB | +34923188453 | (ya existía) | — | No |
+| PROMOTECH | +34923999500 | (ya existía) | — | **Sí** (sobre un fijo) |
+| J. Mediero | +34686226472 | (ya existía) | — | No |
+| Azor Limpiezas | p2 +34685105336 (p1 ya coincidía) | azor@azorlimpiezas.com | — | **Sí** |
+| Aloja Salamanca | — (ya coincidía) | (ya existía) | — | No |
+| Ibergarden | — (ya coincidía; comentario con los móviles de Segovia) | (ya existía) | — | No |
+| Mudanzas Salamanca CYL | +34642236559 | (ya existía, gmail) | mudanzassalamancacyl.com | **Sí** |
+| Adap Informática | p2 +34692635851 (p1 ya coincidía) | comercial@adap.es | — | No |
+| Limpiezas García Hernández | +34676030634 | — (gmail) | propuesta: limpiezasgarciahernandez.com (Villamayor) | No |
+
+Las fuentes de cada una son las URLs de contacto o aviso legal de su web.
+
+### Requieren llamada (11)
+
+| Ficha | Motivo | Teléfono en Attio |
+|---|---|---|
+| TODO EN CASA | el dominio no resuelve | Sí |
+| Kevin Jardinería | la web no resuelve | **No** |
+| SOQUIMSA | web 503 | **No** |
+| Jardinería Monte Nuevo | web ilegible (carga por JavaScript) | Sí |
+| María Vázquez Jiménez | sin web | Sí |
+| SERVIS Salamanca | sin web; ficha contaminada con datos de Squarespace | Sí |
+| Adm. Fincas María José Navarro | la web no resuelve | Sí |
+| Administración de Fincas 1992 | sin web | **No** |
+| Ape Colorado | su web no publica teléfono | Sí |
+| MultiManitas | solo Instagram | **No** |
+| M.ª Victoria Miguel Andrés | web 503 | Sí |
+
+### Retenida (1)
+
+- **Mudanzas Feltrero:** feltrero.com es de Feltrero División Arte S.L., que hace transporte de obras de arte y museografía, no mudanzas domésticas. No escribí nada. Hay que revisar si es un lead válido.
+
+### Problemas detectados en la reanudación
+
+- **Ubicaciones erróneas:**
+  - Toldos Moñita: Coslada, por el enriquecimiento automático.
+  - Azor Limpiezas: Zamora, aunque la web dice Salamanca.
+  - Helsein: coordenadas genéricas 40.4637, -3.7492.
+- **Posible misma titularidad** entre TODO EN CASA y Limpieza General Salamanca: misma dirección, Pl. Mirto 1, según los buscadores.
+- **Fuera de servicios del hogar:** Aloja Salamanca y Gestión VUT (alquiler turístico), Ibergarden (multisede, con base en Segovia y Madrid), Grupo CAB, PROMOTECH, Adap y Factoría PC (informática).
+
+## Cierre del lote 4 completo
+
+- **Procesadas:** 50
+- **Con dato escrito:** 28 (incluidos los 2 conflictos resueltos con tu aprobación)
+- **Sin dato:** 22
+  - 20 pasan a llamada
+  - 2 retenidas (Centro Reto y Mudanzas Feltrero)
+- **Pasan a llamada:** 20 (5 de ellas sin ningún teléfono)
+
+**Totales del lote:**
+- **Teléfonos añadidos:** 35. Se sustituyeron 2 con tu aprobación (CUPOSOL y Moñita).
+- **Personas/emails creados:** 6.
+- **Dominios:** 7 (uno de ellos cambiado).
+- **Errores:** 0. Un fallo puntual de Attio en Aloja se resolvió al reintentar.
+
+**Slack:** Enriquecimiento 04/11 (lote 4): 50 fichas → 28 con dato (35 tel., 6 emails, 7 dominios; Moñita y CUPOSOL resueltos con tu OK), 20 a llamada (5 sin teléfono), 2 retenidas; 0 errores.
