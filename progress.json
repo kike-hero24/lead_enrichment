@@ -345,9 +345,10 @@
       "record_id": "6f642279-9428-43e2-8c01-757016acddbd",
       "entry_id": "b2b10144-042e-4758-8d59-d1432d58093d",
       "nombre": "Aurelma S.L. Construcciones",
-      "estado": "conflicto_pendiente",
+      "estado": "enriquecida_conflicto_resuelto",
       "fecha": "2026-11-04",
-      "lote": 2
+      "lote": 2,
+      "resuelto": "2026-11-04 (aprobado por el usuario)"
     },
     {
       "record_id": "78094788-e30e-4f9f-b43d-40ed0cb609e7",
@@ -505,9 +506,10 @@
       "record_id": "5b1b6fdb-763d-42c2-8399-daa001cf817a",
       "entry_id": "c819ebc8-496e-40f2-8a8d-3faf8b8c5ffe",
       "nombre": "Construcciones González Salamanca",
-      "estado": "conflicto_pendiente",
+      "estado": "enriquecida_conflicto_resuelto",
       "fecha": "2026-11-04",
-      "lote": 2
+      "lote": 2,
+      "resuelto": "2026-11-04 (aprobado por el usuario)"
     },
     {
       "record_id": "5da0b824-34a3-43ba-9b2c-f003156b2bdd",
@@ -553,9 +555,10 @@
       "record_id": "b51b4dcd-79ee-4c04-982d-ece5fce90bc6",
       "entry_id": "4ff040b5-2742-4726-bea2-555daab0e003",
       "nombre": "Reformas Salamanca baños y cocinas (reformassalamanca.es)",
-      "estado": "retenida_intermediario",
+      "estado": "descartada_captacion",
       "fecha": "2026-11-04",
-      "lote": 2
+      "lote": 2,
+      "resuelto": "2026-11-04 (aprobado por el usuario)"
     },
     {
       "record_id": "cfa28dbf-8017-46cb-887c-b4ff6b4dda06",
@@ -633,9 +636,10 @@
       "record_id": "0e258e36-dd45-452b-98d5-44e00cc54e9d",
       "entry_id": "77fb0f44-6631-4fc1-b1b9-aa0167083cca",
       "nombre": "Pintor Salamanca (pinturasalamanca.com)",
-      "estado": "retenida_intermediario",
+      "estado": "descartada_captacion",
       "fecha": "2026-11-04",
-      "lote": 3
+      "lote": 3,
+      "resuelto": "2026-11-04 (aprobado por el usuario)"
     },
     {
       "record_id": "0e7601c1-2c95-456f-b30e-f523220b1e8e",
@@ -689,9 +693,10 @@
       "record_id": "1fa5d8cf-17ca-45da-8003-3e06bd21a483",
       "entry_id": "8a2a5b7b-643a-490e-b3c5-ecc9cbd54346",
       "nombre": "Jardineros Salamanca / EcoGarden",
-      "estado": "retenida_intermediario",
+      "estado": "descartada_captacion",
       "fecha": "2026-11-04",
-      "lote": 3
+      "lote": 3,
+      "resuelto": "2026-11-04 (aprobado por el usuario)"
     },
     {
       "record_id": "220bf276-8ae9-4aed-88df-558294db7d28",
@@ -946,5 +951,6 @@
     "4c12f3df-70d3-47ef-9058-c715a8af8143",
     "aed9d907-857d-4f7c-94b5-bf8115848198",
     "4f199fd7-7ba7-4f16-b95d-4156a7515884"
-  ]
+  ],
+  "resoluciones_2026-11-04": "Aurelma: email corregido a aurelma@aurelma.es + 2 teléfonos. Construcciones González: teléfonos de la web sustituyen al anterior (+34616486580, anotado en comentario) + email. 9 dominios propuestos añadidos (+5 emails). 3 webs de captación descartadas (comentario en la entrada; stage no modificado)."
 }
