@@ -1,0 +1,298 @@
+{
+  "ultima_ejecucion": "2026-11-04",
+  "lotes": [
+    {
+      "fecha": "2026-11-04",
+      "modo": "real",
+      "fichas": 40
+    }
+  ],
+  "nota": "requiere_llamada = sin web propia o web inaccesible; no reintentar. retenida_intermediario = web de captación de terceros, sin escribir.",
+  "procesados": [
+    {
+      "record_id": "5ddb4a16-5c9f-4bb6-900f-04305f607e76",
+      "entry_id": "27a9bf6a-1b62-41b0-bbe9-e59f2ee9c82b",
+      "nombre": "MULTISERVICIOS SALAMANCA",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "8a8eafc8-82b0-453f-b70e-ff08f6ade5f8",
+      "entry_id": "89b27539-3e03-4d85-805f-3c49d5a3e7f7",
+      "nombre": "Fontanería y Calefacción Salamanca",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "9f339147-c3a7-45d5-b1a2-0cc4a6f75a10",
+      "entry_id": "8a1ebc34-4775-46e6-b82b-e4d42be132df",
+      "nombre": "Fontaneria Pablo Sánchez",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "f6b278de-83fb-4cfb-8428-fe87f882ca34",
+      "entry_id": "e68113d4-a039-4229-833d-1afad9fbe502",
+      "nombre": "Fontanería Sin Obras CyL",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "0e852411-bc5d-4d37-8fbc-81d32f9c77e7",
+      "entry_id": "30901fa2-3065-423e-beb9-fe2ae37951b3",
+      "nombre": "Evaristo González Barrado",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "15c92cb7-74c6-46a1-9351-51624c475763",
+      "entry_id": "5636b434-6f7a-4cec-95a9-4d9d1fff1acb",
+      "nombre": "Limcasa Fontanería",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "2e6bde62-47ed-496e-b8f6-477400c0d8fa",
+      "entry_id": "e05c66d7-15cd-41b8-a65a-2642c70092d6",
+      "nombre": "Marviz",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "4578c6d9-816b-4dbf-994a-c25b0638e14a",
+      "entry_id": "5c33b5fa-a2fa-4e6a-b631-1c4d23eca188",
+      "nombre": "Miguel Ángel Montejo Blanco",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "46c92b24-8d6a-4919-980b-b63cea7b7965",
+      "entry_id": "fa3451d3-abd5-4ebe-a640-a5fac4362869",
+      "nombre": "Fontanero Salamanca (fontaneroensalamanca.es)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "41eb7061-b62e-4b01-8010-82357a1e24bb",
+      "entry_id": "ea227229-9eed-4236-a067-c19aa82c6d95",
+      "nombre": "ZARYX Instalaciones",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "27c2b8ee-d0ca-4075-b241-9eb2632c6169",
+      "entry_id": "486e3028-481b-4d90-a82a-c1948f5abf59",
+      "nombre": "Talleres Eléctricos Lucas",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "374d527b-ff8c-49eb-96a3-e0ebf5c5bc8e",
+      "entry_id": "479cfbb3-a3c2-4aa2-8c58-f1a5c96bec2c",
+      "nombre": "Electricidad Reyes e Hijos",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "6703af68-2ae9-41df-b386-ed7e1c2003a1",
+      "entry_id": "4cdd8554-6020-400b-a401-c39221372e28",
+      "nombre": "Zaballos Hernández, Joaquín",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "775711d1-130b-4f28-a175-4afb7a8fc4fa",
+      "entry_id": "e82c6639-2d48-45bc-bcfa-1263cb343e86",
+      "nombre": "Sánchez Sánchez, Óscar",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "77abb43d-30dc-48a5-bfe8-db0fcad4fe73",
+      "entry_id": "245d883e-52bb-4894-9097-3e188ef49560",
+      "nombre": "Redes Ópticas Salmantinas",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "887a3ac9-335d-4b45-aac3-ccf605b678f5",
+      "entry_id": "155838fb-151f-4f08-8001-f1f68e03619c",
+      "nombre": "Martín Vázquez, Emilio José",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "a08770a7-4f15-4dca-846d-9be24a119d4b",
+      "entry_id": "afcd375a-a4a1-45ae-93ac-f736c1891c96",
+      "nombre": "Gallego Fernández, Jesús Javier",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "a3c6c22c-bbc4-44e5-a187-010525cc2c0d",
+      "entry_id": "2b122ff6-88a4-4e88-ad68-c77e5c16a98b",
+      "nombre": "Martín Merchán, Juan Luis",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "c36bf328-cce2-4fc6-9a50-90dea80367ce",
+      "entry_id": "13dde405-504c-4bb3-aa35-4e6541aba5ab",
+      "nombre": "Electro-Clisa",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "d0873ff9-5c39-4402-80d3-888e838f8dd5",
+      "entry_id": "02d5a162-6957-4940-b764-6cffad3d7a9e",
+      "nombre": "Mantelec Solar, SL",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "db957d7e-c56a-4315-915b-0a01f5faabeb",
+      "entry_id": "b8ac643c-2e0c-4b32-8258-44125899a3b0",
+      "nombre": "Intro Servicios, SLU",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "e0064a69-97a0-480a-8977-a7f267eff9dd",
+      "entry_id": "86f04b01-a658-4104-ad54-9cf2cf4c71cd",
+      "nombre": "Mayor Martín, Carlos José",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "05f404b4-de77-44cc-8680-ea95187b4909",
+      "entry_id": "450fc7b4-809d-45f3-a3d0-f251b1c2aa69",
+      "nombre": "IPERMAT Telecomunicaciones Salamanca",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "30dacda9-978f-4c22-beda-a9f6ce2f43c5",
+      "entry_id": "bd395a50-1ab2-4563-b528-7f0a25ab31ea",
+      "nombre": "electricistasalamanca.es",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "88791d54-8bbf-4498-bf26-b6d5cb0f2da0",
+      "entry_id": "28c52f91-b681-4d00-82e7-7022209eeed0",
+      "nombre": "Montajes Eléctricos Torcuato Rodríguez",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "8c5c7e52-01e2-4b49-9854-5670a06da757",
+      "entry_id": "c3fcf432-becd-4844-8198-16fa4565f70b",
+      "nombre": "Aesan Electricidad - Telecomunicaciones",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "908cf8b3-70b1-469a-bbca-7beb5f37ffd5",
+      "entry_id": "30c1689f-d809-4670-996e-342256850e47",
+      "nombre": "Salamanca PowerCharro",
+      "estado": "retenida_intermediario",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "b81790d8-454e-4279-a4a3-9321e78904f2",
+      "entry_id": "a22baf55-a419-4df0-8029-adf4921d2dda",
+      "nombre": "ElectroCharro Repair",
+      "estado": "retenida_intermediario",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "f643732c-be6e-438a-a913-3e858339c259",
+      "entry_id": "3abec6a3-a1c8-416d-ab05-76ae79111a3e",
+      "nombre": "Electricidad Macías",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "162a9ee9-11f7-4f88-be43-29ea02c48038",
+      "entry_id": "48a57ab7-2ef6-4f27-b4a8-21999d2c4d62",
+      "nombre": "Montajes y Reparaciones Bene",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "5e1f90a1-663c-40a9-84cc-eac381b8943d",
+      "entry_id": "df3bd92a-abbc-4bdf-9f0d-d07680997868",
+      "nombre": "Tecno-Mahep",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "701d1401-d3ab-4c41-9756-21167cb6233a",
+      "entry_id": "7505d820-302e-4629-b33d-fc3d6982fb68",
+      "nombre": "Trinova",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "c3eb4833-833f-4465-a24d-2eba9a9e52e3",
+      "entry_id": "1dd124a3-b9f6-4edf-8c9f-c0eb329a50ef",
+      "nombre": "Aquaform Instalación y Mantenimiento",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "6daab088-b7b0-4bfd-86e7-88a73162507e",
+      "entry_id": "26fd6a85-3140-490c-8650-32ea5643e7a5",
+      "nombre": "Disamon",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "7869d408-73a8-47d1-92c0-2b29c258c1f9",
+      "entry_id": "ff613723-8cd6-4aa0-90d6-5251a754885c",
+      "nombre": "Resal / Manuresal",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "f33185d1-ecbb-4272-bf5c-0cfe3e3475af",
+      "entry_id": "9559f47d-cb96-4e33-bb57-441a98695198",
+      "nombre": "Elías Varas",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "0d01401f-ee10-4873-82b8-5de2b0c9a3c8",
+      "entry_id": "8b2478a8-472d-495c-997b-8d4cdd3deec0",
+      "nombre": "Grupo Reformarte",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "167878a3-1c9c-46ee-b9be-a39bb467ff3d",
+      "entry_id": "68358fef-f684-448b-b060-770a67926017",
+      "nombre": "Borja Sánchez Muñoz Construcciones y Reformas",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "21731804-4023-496d-b4a5-83f4a0742982",
+      "entry_id": "9dacb34e-7710-433a-92d3-5d0107573ab3",
+      "nombre": "Reformas Jsn",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-04"
+    },
+    {
+      "record_id": "26db5707-cc9f-40df-bc25-1cca74e84bbd",
+      "entry_id": "060f79ed-350a-467a-8650-08828380ba44",
+      "nombre": "IC Multiservicios Obras y Reformas S.L.",
+      "estado": "enriquecida",
+      "fecha": "2026-11-04"
+    }
+  ],
+  "excluidos_no_en_lista": [
+    "4c12f3df-70d3-47ef-9058-c715a8af8143",
+    "aed9d907-857d-4f7c-94b5-bf8115848198",
+    "4f199fd7-7ba7-4f16-b95d-4156a7515884"
+  ]
+}
