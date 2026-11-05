@@ -1,5 +1,5 @@
 {
-  "ultima_ejecucion": "2026-11-04 (reintentos)",
+  "ultima_ejecucion": "2026-11-05 (equipo de agentes)",
   "lotes": [
     {
       "fecha": "2026-11-04",
@@ -2052,6 +2052,2747 @@
       "estado": "enriquecida",
       "fecha": "2026-11-04",
       "lote": 6
+    },
+    {
+      "record_id": "4604dfdb-f3cf-4570-9289-c1ed8cc562f2",
+      "entry_id": "c5c10e1d-4e1c-4725-a75c-a2411dbb8686",
+      "nombre": "Reparar Tu Casa / Soluciones González / reparacionesgonzalez.es (multiservicios 24 h; fusiona ELE-MAL-03)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {},
+      "motivo": "Web de captación 24h multiciudad (Alicante, Valencia, Barcelona, Bilbao, Madrid, Málaga...) sin titular, sin aviso legal, dirección falsa en EE. UU.; 'SEO CONECTA' Foco principal en Alicante; red nacional",
+      "whatsapp": "widget sin enlace",
+      "web": "https://reparacionesgonzalez.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "def615fc-f43e-404e-9b0a-5aa7cf5dc3f4",
+      "entry_id": "26cac1ee-9e4c-4111-82fb-ff43ca1c045e",
+      "nombre": "Electrónica Torcal / Grupo Torcal (razón social no verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34607374334",
+        "phone_number_2": "+34664794463",
+        "persona_email": "jsanchez@electronicatorcal.es"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://electronicatorcal.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "7c881083-ed6e-4434-9585-f372f92541f8",
+      "entry_id": "5bd3c09b-52ec-466e-9fe1-8e1fabadd3ca",
+      "nombre": "J.M.A. Electricidad (razón social/NIF No verificado)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34692547858",
+        "phone_number_2": "+34952702719"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://jmaelectricidad.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "bb6b4600-e25a-4f96-87e9-c39d45dec241",
+      "entry_id": "5d5113db-1f51-49f9-8852-077b7cf9d6a1",
+      "nombre": "Selet Electricidad (Málaga; razón social no verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34630062173"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://seletelectricidad.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "026819c2-817b-47c0-9d0b-e8caa91a585b",
+      "entry_id": "c6661828-438f-4468-b732-1578d5380c1d",
+      "nombre": "Eléctrica Malpas (nombre comercial; razón social no verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34630939716"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://electricamalpas.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "4aac3410-f930-447c-9e75-bd415713455b",
+      "entry_id": "cde6aab1-a28a-4b74-80e6-e0e8620acbe0",
+      "nombre": "Instalaciones Florido (Torre del Mar; razón social/CIF no verificados) (fusiona CLI-MAL-A01)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34624908336",
+        "persona_email": "info@instalacionesflorido.com"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://instalacionesflorido.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "6e70a82c-7587-4442-8a58-a46d2be3571b",
+      "entry_id": "d486a879-2891-4f9f-9964-3eca73b7a8c0",
+      "nombre": "Instalaciones Eléctricas C&L / \"Instalaciones C&L\" (razón social/NIF No verificado)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34695539792"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://instalacionescyl.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "b2aef58a-cf31-4667-a18f-b7adf1c10ed3",
+      "entry_id": "d8d9e557-1614-4397-b880-15476b125be2",
+      "nombre": "Domingo Sánchez Electricista (domingoelectricista.es; razón social/NIF No verificado)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34641373513",
+        "phone_number_2": "+34630942639"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://domingoelectricista.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "c1a5ce5a-2c3f-44f3-bc11-4b93816af299",
+      "entry_id": "e3538cb2-0f0e-4b00-bb9d-ee88249a925e",
+      "nombre": "Sostera SL (CIF B26603480 según la web)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34689281498"
+      },
+      "motivo": "",
+      "whatsapp": "widget sin enlace",
+      "web": "https://www.sostera.co/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "47878644-3661-4816-af8c-0d44494ca500",
+      "entry_id": "f254dda1-99a1-4c48-a96a-3e23fb76ded5",
+      "nombre": "ElectricaIniesta (razón social no verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34651805699"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://electricainiesta.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "e0b69901-562d-47ba-8fa1-a3adddce4e42",
+      "entry_id": "030eb7f9-3200-41b9-aa8b-6477a37b1f85",
+      "nombre": "Electricidad Zaflox, S.L. (Empresite: C/ Gacela 20, 37007; pista)",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "a9c08301-3cb3-4822-9169-c1666e27570f",
+      "entry_id": "09b7096e-91a2-4aa2-abdc-97dec8804436",
+      "nombre": "Lectriciti",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34622694597",
+        "phone_number_2": "+34923193836"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.lectriciti.com/",
+      "propuestas": [
+        "email info@lectriciti.com (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "af9a9fbf-344c-494d-91d9-3cab700ed520",
+      "entry_id": "0efa9215-8526-4939-84b6-f6ed59d57d6b",
+      "nombre": "Asprel Ingeniería",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34627968673",
+        "phone_number_2": "+34923247404"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://asprel.es/",
+      "propuestas": [
+        "email asprel@asprel.es (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "d9d68277-0b38-441c-94ef-5a4fd2a93f5b",
+      "entry_id": "178c88e6-faa0-40a6-a1c4-431af0857721",
+      "nombre": "Electricidad Santos y González",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "596567a3-c3e3-4a77-b080-ff351912c247",
+      "entry_id": "1a23a300-d5f2-46ca-9c85-d1bae4e1e800",
+      "nombre": "Técnicas e Int. Eléctricas Salamanca",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34923204331"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://tecinsa.net/",
+      "propuestas": [
+        "email tecinsa@tecinsa.net (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "45551ffb-f981-4793-b5f6-c8eaf8061556",
+      "entry_id": "25cccb75-4a0e-42f5-a51d-5e67cb583f1e",
+      "nombre": "Montajes Eléctricos Laser",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {},
+      "motivo": "web caída (montajeselectricoslaser.com no responde, CONNECT 502 en http/https)",
+      "whatsapp": "no",
+      "web": "http://www.montajeselectricoslaser.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "bad7655c-3dd4-4fe3-b787-b395f0560d8d",
+      "entry_id": "2858e170-2d5a-495a-b594-bfbd00d389c0",
+      "nombre": "Rodríguez Campos, Jorge",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "b7a58821-f39a-4b24-8b2d-174963ccb7b7",
+      "entry_id": "2901be4f-df02-4de8-8544-626659a43ceb",
+      "nombre": "Ingeniería Sierra Técnicos",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34658880895"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://ingenieriasierratecnicos.es/",
+      "propuestas": [
+        "email info@ingenieriasierratecnicos.es (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "5778dc35-a126-4ce8-b65a-49da7728dad6",
+      "entry_id": "299458e7-4d91-4f24-aef0-8f210e2a9d03",
+      "nombre": "López Lorenzo, Francisco",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "de1098b7-960e-4c13-9a0f-123b1a832088",
+      "entry_id": "34a8811e-486b-4af4-9137-93f107acc787",
+      "nombre": "Electricidad Mendoza de Dios",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "3b0c67e3-6884-4253-8aef-51bc54ed303d",
+      "entry_id": "3621bdf3-9ae6-4b6e-87d1-532ff7fca989",
+      "nombre": "Hernández Sánchez, Claudino",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34923243171"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://iluminacionclaudino.com/",
+      "propuestas": [],
+      "avisos": [
+        "móvil +34649250000 sospechoso; no escrito"
+      ]
+    },
+    {
+      "record_id": "97f2a81e-85be-44eb-9fa9-5fd4b409e034",
+      "entry_id": "3a865584-224e-4fa1-a3e9-7435c1fc9158",
+      "nombre": "Miguel García, Tomás",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "a03b7520-beb9-43c0-a7b4-a5a092c3af4d",
+      "entry_id": "408ddd8c-53ce-4135-bcc3-3b30c8604e27",
+      "nombre": "Inst. Electr. Eugenio García Bautista",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "4b36c325-b4b9-4ba7-a2e0-db3acabd5621",
+      "entry_id": "41af8069-b627-4bfe-beda-339a80c05564",
+      "nombre": "Electrobyte",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {},
+      "motivo": "web caída (electrobytesl.com muestra página por defecto del hosting)",
+      "whatsapp": "no",
+      "web": "https://electrobytesl.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "c4aca04b-03d8-43b6-936c-6e43c3f32f16",
+      "entry_id": "434af0f0-a36a-4a2a-a46c-053316d48c4a",
+      "nombre": "Electricidad Galindo",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34666445110",
+        "phone_number_2": "+34923282118"
+      },
+      "motivo": "",
+      "whatsapp": "widget sin enlace",
+      "web": "https://electricidad-galindo.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "3a64d0ae-ddf4-4a1b-839f-a3b9919fb243",
+      "entry_id": "49288b43-744e-44ef-90c7-8376d1ee07c4",
+      "nombre": "Electricidad José y Santi",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "7f940045-c5a1-4e21-ae5d-67d45ff9b48a",
+      "entry_id": "53f06a76-3427-42e5-bd14-8f3975cbac31",
+      "nombre": "Electricidad Aberluz",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "00",
+      "escrito": {
+        "phone_number": "+34923232817"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://electricidadaberluz.com/",
+      "propuestas": [],
+      "avisos": [
+        "email de otro dominio: aberluz.sl@gmail.com"
+      ]
+    },
+    {
+      "record_id": "b813274f-bb08-4f6a-8425-e94b2b2de413",
+      "entry_id": "561fd994-1a58-441d-8313-a9e4c46d7cb0",
+      "nombre": "Riegos y Electricidad Salamanca",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "otro: web propia no inequívoca (web de empresa vinculada Gamo Energías SL)",
+      "whatsapp": "no",
+      "web": "https://gamoenergias.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "e7dbdaac-d247-4acd-8fbf-d530b94f8bbc",
+      "entry_id": "57a01582-5e24-4250-9fd2-bab9a15f48e6",
+      "nombre": "Hernández Rebollero, Francisco",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "8b6fbcff-e59e-4e22-abe9-902c06124c57",
+      "entry_id": "6d62659e-916c-4da5-a4d0-903c9de72781",
+      "nombre": "Farcav Tecnología de Futuro",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {
+        "phone_number": "+34620446891",
+        "phone_number_2": "+34692936693"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://farcavrenovables.com/",
+      "propuestas": [
+        "email renovables@farcav.com (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "3516cb64-c208-45d7-801b-ff11028cf65b",
+      "entry_id": "6e5427c6-619c-4b40-ba85-6a5da5d5a5f8",
+      "nombre": "Electricidad B. Cabezas",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "69bba65a-c4b4-41cf-ac89-f3027c605651",
+      "entry_id": "6f8dc5bf-f1ea-4ea5-9313-efbc7751e7ec",
+      "nombre": "Electricidad Rebollo",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "06be3dd3-2abd-4449-aae8-bf45a53725de",
+      "entry_id": "7810f883-8c66-4507-a2a5-221c6b06008c",
+      "nombre": "Electricidad T. Crespo",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {
+        "phone_number": "+34609657491"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.instalacioneselectricastcrespo.es/",
+      "propuestas": [
+        "email contacto@instalacioneselectricastcrespo.es (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "43c01d3b-d11f-4843-9e17-5988e4132e00",
+      "entry_id": "7fe7770e-0261-49b5-9edf-fea889d18bdd",
+      "nombre": "Multiservicios MonteMayor",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "web caída (DNS no resuelve multiserviciosmontemayor.com, http y https)",
+      "whatsapp": "no",
+      "web": "https://multiserviciosmontemayor.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "5bd95e88-df62-436a-a530-132d88c944a3",
+      "entry_id": "80621209-7521-4873-9fee-deea8310a3aa",
+      "nombre": "Talleres Eléctricos Solórzano",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {
+        "phone_number": "+34923212560"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://somelec.es/",
+      "propuestas": [
+        "email consultasweb@somelec.es (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "9eeb3739-475f-4062-9e01-f41810383c92",
+      "entry_id": "8356e218-4cd9-4f75-b98c-b6c3e8307f0b",
+      "nombre": "Martín Sastre, José Ramón",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "e8b2c66b-16bd-4961-a34a-a70f493bbee7",
+      "entry_id": "86ef70b3-448a-4031-aa31-9e5cd759357a",
+      "nombre": "Construcciones Eléctricas Jara",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {
+        "phone_number": "+34923192794"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://trafojara.com/",
+      "propuestas": [
+        "email jara@trafojara.com (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "df93336d-671b-49fd-965e-e6fa271c84f2",
+      "entry_id": "8b1bd8fb-78fd-41c3-96a9-a4e5b8cc3388",
+      "nombre": "TID Eléctricos",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {
+        "phone_number": "+34651110659",
+        "phone_number_2": "+34654110459"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://tidelectricos.es/",
+      "propuestas": [
+        "email info@tidelectricos.es (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "537f251c-05ad-4145-b45a-931a400e2790",
+      "entry_id": "8b3a3224-8430-444c-87d0-f5f631c8e283",
+      "nombre": "Jiménez Huerta, José Manuel",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "c6da967e-3d4b-41f5-98b4-cb409455beb9",
+      "entry_id": "8c31aced-1abf-45bb-94da-6f59c7cfc865",
+      "nombre": "Nedra Instalaciones Electrotécnicas, ESPJ",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "a5f995a3-4f1d-4495-b4b6-b7aa51fcab35",
+      "entry_id": "92019990-4423-455e-9e59-6ae92f322832",
+      "nombre": "TDLUX Montajes Eléctricos, SLU",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "e53957a4-78c2-474d-894f-7a666bc9f8aa",
+      "entry_id": "9cd25de3-7967-46dd-8ffc-81fe265dd745",
+      "nombre": "Instalaciones Eléctricas Medina",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "web caída (HTTP 500 'Requirements Not Met' de WordPress, https y www)",
+      "whatsapp": "no",
+      "web": "https://electricidadmedina.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "d168aad7-4f1e-46c6-9b2e-32b958ac3321",
+      "entry_id": "9f334a3b-b1c9-4da6-9222-9c3d1188f546",
+      "nombre": "Enersir Energías",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {
+        "phone_number": "+34669339837",
+        "phone_number_2": "+34608197361"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://enersir.com/",
+      "propuestas": [
+        "email info@enersir.com (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "c9da2770-010f-474d-b34e-57419d5e0e6a",
+      "entry_id": "a00cc152-c085-4fbf-bdfd-6eb40552e69d",
+      "nombre": "Boyero de San José, José Ignacio",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {
+        "phone_number": "+34654036333",
+        "phone_number_2": "+34923184409"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://proyectosdelhogar.com/",
+      "propuestas": [
+        "email info@proyectosdelhogar.com (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "76215f3b-a5ce-4f6b-b36d-7e2fc40d3655",
+      "entry_id": "a0afcb50-a594-49aa-8149-180e20a3eddd",
+      "nombre": "Electricidad Jesa",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "2eec0ad3-fa2f-443a-a311-6cd684767217",
+      "entry_id": "a7decbd4-d217-47a2-bdfb-9df4ef58f65c",
+      "nombre": "Huveled",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "c82786fc-3fb7-4d54-83db-a9d98973d202",
+      "entry_id": "b57128ce-9373-4fd0-95db-45be738631d3",
+      "nombre": "Arlux Electricidad",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "web caída (DNS no resuelve www.arlux.es / arlux.es)",
+      "whatsapp": "no",
+      "web": "http://www.arlux.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "a2b36982-8791-4cdb-bb7a-16548ac2e341",
+      "entry_id": "b8fb5a8a-c77a-4a62-8ba4-957a331fe089",
+      "nombre": "Pérez Mateos, Iban",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "c2505fd5-f872-4890-b16f-ff72878a2ded",
+      "entry_id": "bb3c0329-934f-4a6f-bc36-449c78e7bde9",
+      "nombre": "Instalaciones Electronova",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {
+        "phone_number": "+34923204449"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.electronova.es/",
+      "propuestas": [
+        "email info@electronova.es (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "87f04c14-dee2-468e-8129-1618cba38f9b",
+      "entry_id": "c29e88bc-9e14-47f9-bca6-32abfca0e637",
+      "nombre": "Marcos Chaves, Miguel Ángel",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "395e199c-d4c4-409a-9227-176772c60794",
+      "entry_id": "cbbed993-0434-454f-95a9-244aae20e38e",
+      "nombre": "Electro Helmántica",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {
+        "phone_number": "+34923712533",
+        "phone_number_2": "+34918281973"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://electrohelmantica.com/",
+      "propuestas": [
+        "email info@electrohelmantica.com (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "c570ab11-b0e1-4b2a-8352-83003f61f0a2",
+      "entry_id": "ccd323c1-273e-40d5-a1f9-3b0392395ec1",
+      "nombre": "Helmanred",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {
+        "phone_number": "+34636101224",
+        "phone_number_2": "+34923189249"
+      },
+      "motivo": "",
+      "whatsapp": "widget sin enlace",
+      "web": "https://www.helmanred.es/",
+      "propuestas": [
+        "email helmanred@helmanred.es (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "edabc2a0-3080-46ef-a438-3a369295c5d0",
+      "entry_id": "cda49325-47c0-4fbd-b811-c5aea4098fb0",
+      "nombre": "RS-Soluciones Industriales",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {
+        "phone_number": "+34686459862",
+        "phone_number_2": "+34923133277"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://rs-soluciones.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "a44e086e-f837-4616-996e-02d35650912a",
+      "entry_id": "d4a425a6-a1d9-4a16-b3f4-d366aeea677a",
+      "nombre": "Meins Consulting",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "01",
+      "escrito": {
+        "phone_number": "+34923204309"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://meins.es/",
+      "propuestas": [
+        "email info@meins.es (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "02d09940-ab18-4df4-b85f-312592acaebd",
+      "entry_id": "df8a2160-adac-412f-a6fd-b52c35148ca4",
+      "nombre": "Electricidad Vicar",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "1da047a2-45c1-4ec0-b189-5939d0360c98",
+      "entry_id": "e4992be5-daa7-49df-ad84-542246a58966",
+      "nombre": "Rodríguez Antón, Juan Carlos",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "b8dc7e1e-1bda-4e17-91a8-41e9f0dfcbf0",
+      "entry_id": "f1a79f27-15dc-4d48-87c8-38d6f2602cd5",
+      "nombre": "Electricidad Gonvi",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "33127ec2-acf2-4416-9b60-42964da18e45",
+      "entry_id": "f505c18b-42d6-4f1f-a065-9a491457ca58",
+      "nombre": "Instalaciones Eléctricas Cenzual",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "adf6c6fd-c5b0-4429-8ea8-da31528a3be6",
+      "entry_id": "f980ba33-9362-48f1-9308-f758785efe97",
+      "nombre": "Electricidad Santiago Martín",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "008058ce-5198-41db-a333-acb1dcb71e28",
+      "entry_id": "fefca2a1-2a08-4ad6-9a31-4d8576584c87",
+      "nombre": "Martín Cid, Nicanor",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "8adacdf3-44d2-4ef1-8c70-904a9c4bac26",
+      "entry_id": "42ed2b75-e491-4ec1-abdb-3154543c168c",
+      "nombre": "Areba Electricidad",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34657902189",
+        "persona_email": "info@areba.es"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://areba.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "f5e4016f-5fd3-470b-9b16-a4cfac442c3b",
+      "entry_id": "f8b1bb61-9127-4ef6-8c28-52a66b41af48",
+      "nombre": "MSE Multiservices",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {},
+      "motivo": "otro",
+      "whatsapp": "widget sin enlace",
+      "web": "https://msemultiservices.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "8182668f-f7f8-4419-85b9-0288bd154e8a",
+      "entry_id": "1889343d-d546-4871-9eb9-314f40cbb827",
+      "nombre": "Instalaciones Carabantes (el título de resultados escribe \"Carbantes\"; razón social no verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "persona_email": "contacto@instalacionescarabantes.es"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://instalacionescarabantes.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "208f5c25-13e0-42f9-8883-bda4821bfe3c",
+      "entry_id": "37b861af-4635-4f51-a29c-add02c9a7614",
+      "nombre": "AC Control Spain (A.C. Control; razón social no verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34630424858"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.accontrolspain.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "fc35020f-a42b-44ba-8638-82c1a630fd46",
+      "entry_id": "50e80fb8-a786-4233-b046-44e903b0f780",
+      "nombre": "Cooltec (cooltecservices.com; contacto persona física anglófona; razón social/NIF No verificado)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34663728798"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://cooltecservices.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "eb0a58da-73dd-400d-9290-64e12b0dfbf8",
+      "entry_id": "8bfc3d04-c455-4a9a-881a-b92b92dee5fc",
+      "nombre": "HELIOCLIMA S.L.",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {},
+      "motivo": "datos de la web ya coinciden",
+      "whatsapp": "si",
+      "web": "https://helioclima.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "e441e17c-85f4-4202-8d95-d0fd6f07b636",
+      "entry_id": "97b55c0e-722e-4cb1-b3fc-572ae773d11d",
+      "nombre": "Climengran (razón social no verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34658656299",
+        "phone_number_2": "+34951132755"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://climengran.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "bfb49512-4ce5-4e00-b5a4-b2a5fe1de07c",
+      "entry_id": "a3148ec9-f276-4f9a-94bc-da43558ea6c2",
+      "nombre": "Air & Water Choices (razón social no verificada)",
+      "estado": "verificada_sin_cambios",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {},
+      "motivo": "datos de la web ya coinciden",
+      "whatsapp": "si",
+      "web": "https://airandwaterchoices.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "c89724be-0e97-4701-913d-b228af331ea2",
+      "entry_id": "a8d2395e-dcf4-4d86-8f58-d0438e377294",
+      "nombre": "Climatic World (razón social No verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34649327235"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://climaticworld.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "8a78ac24-e26e-440d-9feb-1019700bafbb",
+      "entry_id": "af9bac91-2d96-484c-8089-ca7b70f4a0aa",
+      "nombre": "Alba Climatización (titular persona física; el pie muestra un identificador con formato de NIF personal, no reproducido)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34654035240"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://albaclimatizacion.com/",
+      "propuestas": [],
+      "avisos": [
+        "email de otro dominio: jmanue16trabuco@hotmail.com"
+      ]
+    },
+    {
+      "record_id": "082091d6-8a3b-45da-9ace-1b9b04e7bcb4",
+      "entry_id": "c38daf09-523d-4253-b422-421f2c5d9415",
+      "nombre": "CLIMAMIJAS J&J (razón social No verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34623723247",
+        "phone_number_2": "+34653538891"
+      },
+      "motivo": "",
+      "whatsapp": "widget sin enlace",
+      "web": "https://sites.google.com/view/climamijaslaweb",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "1a05464a-1324-4ea4-9bf4-573388a640cf",
+      "entry_id": "eb8f1576-2257-4367-a74d-6a5b52be3dd5",
+      "nombre": "Doctor Frío SL (Benalmádena)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34687507965",
+        "phone_number_2": "+34675861719"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://doctorfrio.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "67681e90-a0db-45f6-a756-bf0364e09607",
+      "entry_id": "fac7d65b-b7de-48f5-beb6-8c1891f6365f",
+      "nombre": "Cool and Cosy (Cool and Cosy Air-Conditioning; razón social/CIF no verificados)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34679976062",
+        "phone_number_2": "+34952935513"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://coolandcosy.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "641c5287-add4-4938-b23d-4f3b56d697c0",
+      "entry_id": "03701708-589d-49a1-a8cc-f11f288fd9bf",
+      "nombre": "INCLISAL (Interclima Salamanca, S.L.)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34923193570"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.grupointerclima.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "252df100-5b15-4f82-98d7-87f9addfa816",
+      "entry_id": "085af1cf-24f7-487a-b0f0-b337caa370b5",
+      "nombre": "CUIDUR / Mantenimiento calderas, servicio técnico y atención 24H",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34923620878",
+        "phone_number_2": "+34923702070",
+        "persona_email": "hola@cuidur.com"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.cuidur.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "2a5757a6-3957-47a8-8a02-ba1d55c6947e",
+      "entry_id": "128bbca3-14da-444c-868f-4efba7aadf49",
+      "nombre": "Tecnoled Mcr Slu",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "7bc8f7a7-1205-46f6-8e04-0f8217971934",
+      "entry_id": "330f3c33-6ae4-4fc9-800d-1507bc9e0db3",
+      "nombre": "SANFER",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number_2": "+34923257914"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://sanfersat.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "09d401fe-9ea2-4136-a758-27d1ec138a53",
+      "entry_id": "3bad9f4a-cc37-4476-be44-3d5a085fa172",
+      "nombre": "MASAT Calefacción Salamanca",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34923049470"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://calefaccionsalamanca.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "24898a15-9a56-4408-959b-271a29bf9f19",
+      "entry_id": "4d28e617-3f8b-4d2e-93cf-ada3f93f2938",
+      "nombre": "FRICARSA",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "persona_email": "info@fricarsa.com"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.fricarsa.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "af2aef74-13af-4275-895f-a2b46d2a94ea",
+      "entry_id": "513f52d8-a51d-4d49-b228-a104de2e24d4",
+      "nombre": "Tobío, S.L. (Climatobio / Clima-Tobío)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34923206433"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.climatobio.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "af4bec7b-ea83-4ae1-a4a1-3fc578573c54",
+      "entry_id": "5da43a8c-1c2c-4089-8c3b-9a479cb5e500",
+      "nombre": "Climaterm Salamanca, E.S.P.J.",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "02",
+      "escrito": {
+        "phone_number": "+34677533070",
+        "phone_number_2": "+34695597761"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://climatermsalamanca.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "1cf02798-3daa-4fa0-b092-60e78854705e",
+      "entry_id": "7e3ace1c-2b22-49f9-bfd5-1d56500cde67",
+      "nombre": "Semateq (servicio técnico de calderas y AA)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34692594772",
+        "phone_number_2": "+34923193872"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.semateq.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "6252637d-75a2-4aef-8d46-1d6fa59dbe1e",
+      "entry_id": "87d885dc-8149-499c-9d1d-43766cde6e1f",
+      "nombre": "Proy - Valclima S. L. U.",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "3bf80e1c-98bc-4a53-bbeb-45ceb828aef3",
+      "entry_id": "c9b3e6f3-18ae-4f28-8945-218acc2a20b2",
+      "nombre": "RAV Energía",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {},
+      "motivo": "web caída (HTTP 500 por https y 503/timeout por http, 04-nov-2026)",
+      "whatsapp": "no",
+      "web": "https://ravenergia.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "e712f1cb-cb42-4976-9df0-f14e1d42359d",
+      "entry_id": "e93dc1d1-a5d1-459b-aa6c-9b7206f82f22",
+      "nombre": "Termocalor Calefacciones",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34923226860",
+        "phone_number_2": "+34923243637"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.termocalor.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "2a8c3ff4-bec4-4f6a-81d9-49cc0f0bbcef",
+      "entry_id": "e9ed9062-1655-4f97-b627-dcdd51d88a61",
+      "nombre": "Taife (Taife Climatización)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34678562825",
+        "phone_number_2": "+34923210956"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://taife.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "a2b77471-22b1-40ce-b1fe-4c637e99f993",
+      "entry_id": "3fb55b63-08ee-4708-b5b2-9a289369d178",
+      "nombre": "Decomorado Mantenimiento SLU, CIF B16785065 (web en-malaga.es)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {},
+      "motivo": "en-malaga.es es un portal/directorio de empresas de Málaga por categorías ('Desarrollado y Posicionado por: Antonio González'); no es web propia del negocio",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "530e263d-979a-4033-8250-9d9520b6f975",
+      "entry_id": "8b4c9748-31aa-4c7e-a2f2-4ed58b75a2b8",
+      "nombre": "Técnicos Bermeja (tecnicosbermeja.com)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {},
+      "motivo": "Servicio técnico multimarca no oficial ('No somos servicio técnico oficial', 'Llama gratis'), nombre geográfico genérico y titular en Granada: patrón de red de captación Titular en Albolote (Granada)",
+      "whatsapp": "no",
+      "web": "https://tecnicosbermeja.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "76e827e9-8891-46db-ad8a-b83bdc8cc449",
+      "entry_id": "93052d98-61ba-4768-8635-00f361504554",
+      "nombre": "Reformantia (reformantia.com; titular persona física con domicilio en Las Rozas, Madrid)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {},
+      "motivo": "Posible red multiciudad: páginas por ciudad (empresa-reformas-malaga) con titular en Madrid Titular con domicilio en Las Rozas (Madrid)",
+      "whatsapp": "si",
+      "web": "https://reformantia.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "34d089b7-7d0d-4ef4-b8ed-9f9a87ef8252",
+      "entry_id": "bd7fe82e-36e1-4cd4-be70-c99b21e4b112",
+      "nombre": "Oasis Energy Solutions (Marbella)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34952782600"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://oasisenergysolutions.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "9d2c0242-a283-4f1c-b95e-cd869dbdbb48",
+      "entry_id": "f51dec1a-4e26-4153-8b48-e5768f7cc242",
+      "nombre": "Klimacentro (razón social no verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34608017720",
+        "phone_number_2": "+34952540786"
+      },
+      "motivo": "",
+      "whatsapp": "widget sin enlace",
+      "web": "https://klimacentro.com/",
+      "propuestas": [
+        "email fcarrion@me.com (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "e0d0c61c-d4dc-4e3a-bf2b-211d2a785f58",
+      "entry_id": "bec21a8c-51e1-4a31-9247-9958c148cf7b",
+      "nombre": "Cerámicas y Reformas Armando",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34665905489",
+        "phone_number_2": "+34923120964"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://reformasarmando.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "5e203d04-0e2b-4c70-860f-3efc8a20dc8f",
+      "entry_id": "039065d0-79fc-4e86-9e62-4613a1d0d0cb",
+      "nombre": "Sobremonte Sociedad Cooperativa Andaluza (CIF F09872870), marca \"Sobremonte Reformas / Multiservicios - Torremolinos\"",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34635119403"
+      },
+      "motivo": "",
+      "whatsapp": "widget sin enlace",
+      "web": "https://www.reformastorremolinos.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "a9b309b7-9484-41d4-a275-637cd9c39eee",
+      "entry_id": "04babbb7-8614-466c-8637-5f16cd618207",
+      "nombre": "MB Reformas (MB1 Salud y Hogar, S.L., CIF B93305456; reformasmb1.com)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34691116748",
+        "phone_number_2": "+34951150627"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://reformasmb1.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "583eebbd-db20-420a-b846-fe23c8baaeb8",
+      "entry_id": "12beff22-6271-484f-9f6c-3ee081f95446",
+      "nombre": "Macal Construcciones y Contratas S.L. (MCO Construcción; CIF no consta en la página)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34952266883"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://mcoconstruccion.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "14adff87-4ad6-4062-b765-cb18b66113d5",
+      "entry_id": "65aa5401-52ab-416c-9659-dbe41aa411b7",
+      "nombre": "Ferym 2001 S.L.U.",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34659052581",
+        "phone_number_2": "+34952591218"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://ferym2001.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "b2738be2-d232-40cb-a53e-ea1ad31462f1",
+      "entry_id": "66a15b81-e68e-492a-8948-86ba7633f9d0",
+      "nombre": "Obras y Reformas Govera (sin razón social; solo nombre comercial en el copyright)",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {},
+      "motivo": "web propia sin teléfono",
+      "whatsapp": "no",
+      "web": "https://obrasyreformasgovera.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "19aad157-a996-496e-abd9-32a719d7d719",
+      "entry_id": "7a1cb605-9315-401f-9eac-4bbc56eb1927",
+      "nombre": "Reformas del Sol (Reformas Málaga Del Sol; sin razón social)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34664459868"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://reformasdelsol.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "0ebb1556-f4fb-4f70-967d-1d42a3466b53",
+      "entry_id": "81c15773-b480-4063-86c9-2d69401f5066",
+      "nombre": "Reformas Costa Sol",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34624379917",
+        "persona_email": "info@reformascostasol.com"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.reformascostasol.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "0908052e-370d-4769-ba6e-180833c5153a",
+      "entry_id": "89c43fb8-d7a4-4f38-a65e-4a535b387fdd",
+      "nombre": "Construcciones y Reformas Miguel Ruz / \"Construcciones Miguel Ruz Verdugo\" (sin web propia)",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "28d4a39a-ab97-42e2-820b-36559265b10e",
+      "entry_id": "958ef4b7-2331-4a5a-a067-f0ff46059455",
+      "nombre": "Olona Moreno Construcciones S.L. (CIF B93204659)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34619074985",
+        "phone_number_2": "+34952267280"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.olonaconstrucciones.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "ec0ee464-f726-4069-b89f-c006f83e292a",
+      "entry_id": "aaebf6d0-56b6-4b86-8a87-7cc5cc82fabe",
+      "nombre": "Reformas Axarquía (reformasaxarquia.com; sin razón social)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34649521200"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.reformasaxarquia.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "dfd06dab-b6d6-4ef9-8720-5be2a5466637",
+      "entry_id": "b0f7298f-d646-4726-b196-4d606c39f419",
+      "nombre": "I.R.C. Servicios y Obras S.L. (pintoresmalaga.es e irc-serviciosyobras.es; web titularidad de Vision Click S.L.)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34667355838",
+        "phone_number_2": "+34952004251"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.irc-serviciosyobras.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "647907ae-543a-4795-8bf9-d376a3864881",
+      "entry_id": "b3639200-0659-4faa-815b-40d7f88cafb0",
+      "nombre": "Construcciones Antequera (titular en aviso legal: persona física)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34639003168"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://construccionesantequera.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "cd1d4de5-7d14-465c-a37a-6e3c6f972b99",
+      "entry_id": "c1776f8c-8a11-45cb-9ffe-fd2daaad9571",
+      "nombre": "\"Reformas Integrales\" (reformasyclimatizacion.es; sin razón social)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34622709804"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://reformasyclimatizacion.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "6483a7db-c978-4ed9-871f-773b02da543c",
+      "entry_id": "c79eeda8-6893-4a19-b543-ef78e7a26e5f",
+      "nombre": "Fluinsa (reformasyconstructorasmalaga.es)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34952246271"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.reformasyconstructorasmalaga.es/",
+      "propuestas": [
+        "email info@fluinsa.es (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "8373d75d-c052-484b-a9fe-4aa28de7c53b",
+      "entry_id": "e178b793-90f4-4a58-8f65-e20626b5747f",
+      "nombre": "GBT Building Services",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34637198506"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.gbtbuild.com/",
+      "propuestas": [],
+      "avisos": [
+        "email de otro dominio: gbtbuild@gmail.com"
+      ]
+    },
+    {
+      "record_id": "b012fe3d-7c00-46df-8834-92bad2e198bc",
+      "entry_id": "e4a1ac16-1d97-494a-a5a2-188fe1d80a2f",
+      "nombre": "Servicios Al Andalus / Al-Andalus Multiservicios",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "03",
+      "escrito": {
+        "phone_number": "+34635330002",
+        "persona_email": "info@serviciosalandalus.com"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://serviciosalandalus.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "239ca3d5-0641-41fd-8a93-bf9d66bc4758",
+      "entry_id": "e9b669e5-1f2e-4cdc-b9c9-a4cc339f860b",
+      "nombre": "DAL proyectos y construcciones S.L. (marca DalHome; CIF vacío en el aviso legal)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34633545278",
+        "phone_number_2": "+34615275506"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://dalhome.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "b0465763-4228-475d-a05f-a232e47cf6b1",
+      "entry_id": "f8c46830-ee01-4d3b-a8fe-aafec87eb8f2",
+      "nombre": "Reinsol Nuevo Milenio SL",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34661948116",
+        "phone_number_2": "+34952223212",
+        "persona_email": "reinsol@gruporeinsol.com"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.gruporeinsol.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "e21fbb2b-8216-43d1-b099-53ae0ae13b4d",
+      "entry_id": "fa68991c-1cdc-43f0-a0e9-9f7f36324975",
+      "nombre": "Gefran Construcciones",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34630920630",
+        "persona_email": "merino@gefranconstrucciones.com"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.gefranconstrucciones.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "a06ff789-4d89-48ec-984b-811666103959",
+      "entry_id": "fd017181-f961-4154-bdbc-a3011889d30a",
+      "nombre": "Serviconst (®Serviconst; sin razón social)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34657223301",
+        "phone_number_2": "+34952434428"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.serviconst.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "e1d34079-5b75-43d3-a5b0-773aeb35ae52",
+      "entry_id": "23c68c62-fd59-418e-ba5b-cb72c5c11357",
+      "nombre": "Obras y Reformas Sánchez-Feijoó",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34685638088"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.obrasyreformassanchezfeijoo.com/",
+      "propuestas": [],
+      "avisos": [
+        "email de otro dominio: sanchezfeijooreformas@gmail.com"
+      ]
+    },
+    {
+      "record_id": "96cd44a3-0dc6-4a88-98b8-a6638b96377a",
+      "entry_id": "2c242b01-ab47-4339-aa5c-c71c71c4e3e7",
+      "nombre": "PGH Pavimentos Hormigón",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number_2": "+34645234345"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://pgh-pavimentos.com/",
+      "propuestas": [],
+      "avisos": [
+        "email de otro dominio: pgh.salamanca@gmail.com"
+      ]
+    },
+    {
+      "record_id": "e15a6ca7-983f-43a8-ac9a-5eeb9a875d75",
+      "entry_id": "61693d89-8be5-4b44-bfa3-9bfe8a39ee9e",
+      "nombre": "REFORMAS VESCA SALAMANCA",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "3734857f-833f-465d-9149-eae272ae6620",
+      "entry_id": "77732fae-391b-4391-a14a-5b086ce79c96",
+      "nombre": "Díaz Campelo Construcciones, Rehabilitaciones y Reformas",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34620229427"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://rehabilitacionesdiazcampelo.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "74cd7bd0-3c40-4166-b8be-cc152a02668b",
+      "entry_id": "7a186525-87e0-4fc4-b3aa-36f49e03eed3",
+      "nombre": "Intecal Multiservicios / Desatascos Intecal",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34618098453",
+        "phone_number_2": "+34609522102"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://desatascosintecal.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "34119d17-c068-49de-b0c9-65c66a58bc17",
+      "entry_id": "7e432c68-5692-4211-867c-f8879ab1fa6a",
+      "nombre": "Jorcar Naveira",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34683368120",
+        "phone_number_2": "+34923185320"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.jorcarnaveira.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "4295d89f-05d7-4be8-8fea-cee3f3166e14",
+      "entry_id": "8aa8194e-7b42-45eb-b236-4e8ae0864bff",
+      "nombre": "Construcciones Coforsa (COFORSA, Construcciones Forfoleda Salamanca S.L.; coincidencia a confirmar)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34923601721"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://construccionescoforsa.com/",
+      "propuestas": [
+        "email info@construccionescoforsa.com (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "e0941f18-c7bc-4d25-b98e-89d9d271b6b2",
+      "entry_id": "a5a88fd0-ca33-4de2-b68d-859dc570b838",
+      "nombre": "DeccoAndy",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {},
+      "motivo": "web caída (HTTP 500/503 por http; error TLS por https)",
+      "whatsapp": "no",
+      "web": "http://www.deccoandy.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "850caedd-fbcb-40f2-9ebc-6cf5e00bea92",
+      "entry_id": "a986c367-e256-4451-a8a5-04a96a402864",
+      "nombre": "Construcciones Martobar S.L.",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34923125598"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.martobar.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "fcfc6ff3-90ba-4bbd-a8f7-41d207080ad5",
+      "entry_id": "2ed3a2da-842b-46ba-a369-8abf44bcd101",
+      "nombre": "Construcciones y Reformas Casabermeja (dominio construccionesyreformasmalaga.es; \"Construciones Málaga\" en metadatos)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {},
+      "motivo": "Dominio genérico de palabras clave ('construcciones y reformas Málaga'); aviso legal con titular persona física de nombre genérico y email de gestión (gestiones.ax@gmail.com); 'Construciones Málaga' en los metadatos. Posible web de captación.",
+      "whatsapp": "no",
+      "web": "https://construccionesyreformasmalaga.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "f2da0ea2-f804-4700-9895-93c14cc5f325",
+      "entry_id": "3837e54c-d637-44a4-a1d9-a3058500eb2f",
+      "nombre": "Irureform (irureformasmalaga.es; titular persona física del sector SEO en el aviso legal)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {},
+      "motivo": "El titular del aviso legal es una persona física del sector SEO (email rubendiazseo@gmail.com, teléfono 694 402 354): posible web de captación gestionada por un SEO.",
+      "whatsapp": "si",
+      "web": "https://irureformasmalaga.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "9a2ae2dd-1346-4527-ba6d-684d89a5f001",
+      "entry_id": "3b1a9a27-1bc5-4a78-8573-bc0e70c3a82e",
+      "nombre": "VKM Reformas (vkmreformasmalaga.es; titular legal VK Group Outsourcing, S.L., CIF B67520130, Barcelona)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {},
+      "motivo": "El titular es una empresa de outsourcing comercial de Barcelona (VK Group Outsourcing); fijo de Sevilla (955); dominio genérico de palabras clave. Probable red de captación. Barcelona (domicilio social); teléfono con prefijo de Sevilla",
+      "whatsapp": "si",
+      "web": "https://www.vkmreformasmalaga.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "a3a5d200-1e4a-4480-91d7-d644a7dcf293",
+      "entry_id": "65c5f3c6-507e-4f63-87b0-d651d6db8e20",
+      "nombre": "Reformas Integrales Málaga (reformas-integrales-malaga.es; sin razón social)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {},
+      "motivo": "Dominio genérico de palabras clave sin titular ni razón social identificable: posible captación.",
+      "whatsapp": "si",
+      "web": "https://www.reformas-integrales-malaga.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "5747be6a-1d4f-4c81-a724-f30cb2744311",
+      "entry_id": "90c04ddc-0b28-4b52-b013-bfec1efa5453",
+      "nombre": "Reformas Integrales (reformasintegrales.pro; titular persona física en el aviso legal)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34639827645"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.reformasintegrales.pro/",
+      "propuestas": [
+        "email info@reformasintegrales.pro (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "4b85bba4-9118-4d13-b9cd-ea5981689d98",
+      "entry_id": "a6041dad-db96-4ad2-8d3a-faa046ce1bd6",
+      "nombre": "Valora Construcción (valoraconstruccion.com)",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {},
+      "motivo": "web propia sin teléfono",
+      "whatsapp": "no",
+      "web": "https://valoraconstruccion.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "b59a1696-b5d0-4983-a220-47db11a5a73e",
+      "entry_id": "af3ede3e-22e9-4f62-9473-fb9dfada6caf",
+      "nombre": "Multiservicios Antequera (multiserviciosantequera.com)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {},
+      "motivo": "Portal multiservicio genérico (reformas, quiromasajista, seguros de salud, agencia inmobiliaria, limpieza) cuyo titular es EN2NUBE S.L. (Sevilla): red de captación o directorio, no un negocio de reformas. Sevilla (titular)",
+      "whatsapp": "si",
+      "web": "https://multiserviciosantequera.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "27f480f3-38ca-4777-8e2d-d40c4050cf28",
+      "entry_id": "c1a1d353-9622-4dbf-94c0-ee916320cc59",
+      "nombre": "IMJ Reformas / IMJ Construcciones (sin razón social)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34606578947",
+        "phone_number_2": "+34637127200"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://imjreformas.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "ff1f83a7-696a-429b-be7b-a33b5f9636e7",
+      "entry_id": "c51f7a00-5526-471b-9387-e2b20f370313",
+      "nombre": "Construcciones FML (titular en aviso legal: persona física con domicilio en Marbella)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34641758117"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://construccionesfml.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "7ee8dc3f-2c90-4f81-b5f4-e1b252465d25",
+      "entry_id": "d4776119-afee-41f5-98f6-ba28e836f29b",
+      "nombre": "Construcción y Reformas Azuaga (maycarconstrucciones.es)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {},
+      "motivo": "El dominio de Attio es un directorio/agregador SEO (maycarconstrucciones.es) y no la web propia.",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "c6863e3b-9a2b-462b-8b34-3349ef854d5e",
+      "entry_id": "d8c49c45-7d84-4a61-aea5-1308f9dfe9a6",
+      "nombre": "Construcciones Arenas Medina",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {},
+      "motivo": "Granada (Otura); la web es de Granada con páginas SEO para la Costa del Sol",
+      "whatsapp": "no",
+      "web": "https://construccionesarenasmedina.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "f178f7aa-a0c8-406d-a898-ad14a037817b",
+      "entry_id": "e2a7137c-6477-4041-bc09-173f5756b4c4",
+      "nombre": "Reforvis (empresareformaenmalaga.com; titular legal: Impulso SEO Digital SL)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {},
+      "motivo": "El titular es una agencia SEO (Impulso SEO Digital SL) y el dominio es genérico: probable web de captación.",
+      "whatsapp": "si",
+      "web": "https://empresareformaenmalaga.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "6a267860-eb0e-49b0-83ee-cdb73b53701c",
+      "entry_id": "fcd76554-3ad3-4a39-9e29-2028ef01791d",
+      "nombre": "ACV Proyectos y Obras (empresareformasmalaga.es; titular legal de la web: VISION CLICK SL, CIF B93086346)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34610501011",
+        "phone_number_2": "+34951110114"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://acvproyectosyobras.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "9d51ed4c-c3b5-4329-b4c2-bea1c50df1ec",
+      "entry_id": "00c2cc90-edc5-4f99-9ddc-966a46cde88b",
+      "nombre": "Bárbol Garden Grass S.L. (razón social solo en etiqueta de mapa)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "04",
+      "escrito": {
+        "phone_number": "+34616551392",
+        "phone_number_2": "+34615068745"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://barbolgardengrass.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "54f5dd2f-ce50-4986-a53d-139a829e12af",
+      "entry_id": "019d70bc-b8f3-4b41-b355-091c7cdd9a66",
+      "nombre": "MUDALSUR",
+      "estado": "verificada_sin_cambios",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {},
+      "motivo": "datos de la web ya coinciden",
+      "whatsapp": "si",
+      "web": "https://mudalsur.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "9316e473-9c9c-4a3f-8d0b-aa3a5912db9d",
+      "entry_id": "01b1fe2f-3ee9-42d3-9b43-868c41226965",
+      "nombre": "Regna Tec",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {},
+      "motivo": "Attio location: Sant Cugat del Vallès (Catalunya); directorios la sitúan en C/ Navarro Ledesma 198, Málaga (no verificado)",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "9316e473-9c9c-4a3f-8d0b-aa3a5912db9d",
+      "entry_id": "04607d71-c737-4c83-bf3f-ed70de2eba12",
+      "nombre": "Regna Tec",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {},
+      "motivo": "Attio location: Sant Cugat del Vallès (Catalunya); directorios la sitúan en C/ Navarro Ledesma 198, Málaga (no verificado)",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "ebb18b05-eff3-40e0-8d2a-3e22bd0f2eb1",
+      "entry_id": "06e573b9-3c82-4fc5-8958-0edf06f49f4c",
+      "nombre": "Carpintería Mácar (Mácar Carpinteros; sin razón social)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34623632603"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://carpinteriamacar.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "596791f0-65f4-4113-9c02-865a62780270",
+      "entry_id": "070c9b31-c19a-452f-bf6f-88222a791202",
+      "nombre": "Security of Spain",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34636770865"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://securityofspain.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "4e2c4ab7-6394-4e45-b5eb-b35b31393acc",
+      "entry_id": "0829d44d-5bec-4b38-b87b-77a04f35f8f2",
+      "nombre": "Multi Piscinas Andalucía",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "bc450e84-38d4-4d5b-ad25-40dfdf958950",
+      "entry_id": "122f9750-eaee-42c3-93a9-36b723dab2cb",
+      "nombre": "Mars Administradores de Fincas",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34650278235",
+        "phone_number_2": "+34636733746"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://marsadministradores.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "05161538-a648-4e31-932f-15873a637083",
+      "entry_id": "123d1984-8c60-4ec0-8484-887d9ca9ccfe",
+      "nombre": "Desatoros Delimsa (razón social/CIF no verificados)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {},
+      "motivo": "Posible: dominio genérico por palabra clave sin titular ni aviso legal; mismo diseño/plantilla que desatorosenvelezmalaga.es (Lidesa)",
+      "whatsapp": "no",
+      "web": "https://www.desatorosvelezmalaga.net/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "466fe20f-bd4f-47c3-b957-14d7a11a88ac",
+      "entry_id": "12fd5792-98b8-43a2-9fd3-0a2d307e55c3",
+      "nombre": "Limproser 10 (LIMPROSER 10 SL)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34649759856",
+        "phone_number_2": "+34952343446"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://limproser10.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "9316e473-9c9c-4a3f-8d0b-aa3a5912db9d",
+      "entry_id": "142c15d8-b719-4e07-a89d-f3ba28b56834",
+      "nombre": "Regna Tec",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {},
+      "motivo": "Attio location: Sant Cugat del Vallès (Catalunya); directorios la sitúan en C/ Navarro Ledesma 198, Málaga (no verificado)",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "28a4e7fe-a248-49a5-ae31-9f1e18647763",
+      "entry_id": "171e2bae-c92c-487e-a830-726683b82770",
+      "nombre": "G&C Home Services (Carpintería a Medida GC Home Services; responsable persona física)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number_2": "+34634105126"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://gychomeservices.com/",
+      "propuestas": [],
+      "avisos": [
+        "email de otro dominio: gyc.homeservices@gmail.com"
+      ]
+    },
+    {
+      "record_id": "7ebc2615-f094-4c29-b990-1a5b9d448352",
+      "entry_id": "1a5bbfd9-2917-4bff-9717-90dafe494fcb",
+      "nombre": "Jardines y Diseños Francisco Montiel (titular en pie de web; sin NIF)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34654891544"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.xn--jardinesydiseofranciscomontiel-q4c.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "fd09e58a-db4a-4563-bca9-8741bc722ca9",
+      "entry_id": "1d07c342-8e0d-4970-bebc-dc67ba3a4bd3",
+      "nombre": "Mudanzas López Serrano",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34656571066",
+        "phone_number_2": "+34648298982"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://mudanzaslopezserrano.com/",
+      "propuestas": [],
+      "avisos": [
+        "email de otro dominio: rubioluli77@gmail.com"
+      ]
+    },
+    {
+      "record_id": "4944a6dc-4438-47c6-bd78-2270d9f79b0a",
+      "entry_id": "1ed000ec-f6f8-4e4d-977e-987b7b562101",
+      "nombre": "Cerrajería Crifer",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {},
+      "motivo": "sin web propia",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "33017628-75cc-4843-ba06-cb601b2ef8aa",
+      "entry_id": "267ac222-c5d0-4d9d-aff1-8f1eb481ab15",
+      "nombre": "Fumicosol (razón social no verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34744632619",
+        "phone_number_2": "+34951152222"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://fumicosol.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "f3d1e8b5-2379-49d4-9cab-8f658c171254",
+      "entry_id": "27e07148-e19a-499e-8b32-d75bd326cb21",
+      "nombre": "Mudanzas Nerja (CTM; dominio mudanzasyporteslevante.es)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34653676860"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.mudanzasyporteslevante.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "68b6d91f-b05f-472a-82f2-8e3bbb96407c",
+      "entry_id": "2a840d50-284b-4303-a78f-1b058b586789",
+      "nombre": "Update Informática Antequera / \"Update Informática Empresas\" (razón social/NIF No verificado)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34681647730",
+        "phone_number_2": "+34673361630"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://informaticaantequera.com/",
+      "propuestas": [
+        "email info@updatesi.com (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "61135153-1841-467f-8c59-7138f2c13bcf",
+      "entry_id": "2cf26105-2ffb-4804-a5c7-563c46ea6255",
+      "nombre": "JM Jardinería y Servicios (titular por el alt del logo) (fusiona PIS-MAL-Z03 de la zona Costa/Guadalhorce)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34654199652"
+      },
+      "motivo": "",
+      "whatsapp": "widget sin enlace",
+      "web": "https://www.jmjardineriayservicios.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "50feb94d-a8a0-4761-9a56-be2a0e6e18c9",
+      "entry_id": "3552c737-bf16-4670-9271-f411966fe2a5",
+      "nombre": "RM Casa Mía (sin razón social)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34687039293"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.rmcasamia.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "30d5ba10-b792-4e9f-9e9e-9bcfb8582eb2",
+      "entry_id": "37210424-227d-4f1f-9df8-e1d9a87e1cd3",
+      "nombre": "Raycu Control Plagas",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34608452750"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://raycu.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "08dfd847-9279-4ed4-8ca3-09975e4183b9",
+      "entry_id": "3820c583-dea1-450e-833f-39eaf600d242",
+      "nombre": "Lidesa S.L. (desatoroslidesasl.com; CIF no verificado) (fusiona DES-MAL-A01)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34646330688",
+        "phone_number_2": "+34952268118"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.desatoroslidesasl.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "92bb7a23-fb3e-4758-a43e-abecff467316",
+      "entry_id": "38dfbdf6-6fe7-45be-8c76-2c6d8b66a428",
+      "nombre": "SOLMEDIA DIGITAL (Grupo Solmedia / APP-Informática Torremolinos)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34952050614"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.solmedia.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "2b9baad7-2c9f-44d5-bdfc-135149bca901",
+      "entry_id": "39ca96f2-f0ca-4b1b-9c41-f71f088981f4",
+      "nombre": "Desatascos De La Torre (logo \"DLT Service\"; razón social No verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34634776220",
+        "phone_number_2": "+34650451638"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.desatascosdelatorre.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "11b27c84-24ab-4ad6-b6f7-74a684a9e3b0",
+      "entry_id": "3af0517a-8894-4b2d-a865-4abb9920b5e1",
+      "nombre": "PLAGACOR M.S. / Cash D Axarquía S.L. (razón social según pie de la web; antes vinculada a extintores El Mellizo) (fusiona PLA-MAL-A01 de la zona Axarquía)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34679080436"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.plagacor.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "c665cf13-096d-4169-9920-9bcdc01de5f9",
+      "entry_id": "3ce88011-b35b-46b4-9518-fd3abcb910d0",
+      "nombre": "MyD Jardines",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34696199282",
+        "phone_number_2": "+34952377572"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.mydjardines.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "8e90fe73-c399-4c64-9ec4-fb85c5aa6d41",
+      "entry_id": "3dc7678e-b121-42a1-a886-011769184fc8",
+      "nombre": "Higiser S.L. (webs higiser.es y controlplagasmalaga.com: misma empresa, mismo teléfono 952 44 29 82 y email) (fusiona PLA-MAL-Z03)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34638108592",
+        "phone_number_2": "+34952442982"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.higiser.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "dca5d1d9-685d-4f6f-bf50-1f9fbdd020ca",
+      "entry_id": "3e1af911-3463-4c3a-b577-63e2b58c9b85",
+      "nombre": "ArdaServic",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "05",
+      "escrito": {
+        "phone_number": "+34651379946"
+      },
+      "motivo": "",
+      "whatsapp": "widget sin enlace",
+      "web": "https://www.ardaservic.es/",
+      "propuestas": [],
+      "avisos": []
     }
   ],
   "excluidos_no_en_lista": [
