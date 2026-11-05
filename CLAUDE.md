@@ -11,7 +11,8 @@ Guarda este archivo como `CLAUDE.md` en una carpeta de trabajo (por ejemplo `~/h
    Dentro de Claude Code ejecuta `/mcp` y completa el login de Attio con una cuenta con permisos de escritura en el workspace **Hero24**.
 2. Comprueba la conexión pidiendo: «Ejecuta whoami en Attio». Debe devolver el workspace `hero-24`.
 3. (Opcional) Copia la skill `agency-agents` a `~/.claude/agents/` y usa los agentes *Sales Data Extraction Agent* y *Data Consolidation Agent*.
-4. Prueba primero en **modo simulación** (sección 7) con 10 leads antes de dejarlo escribir.
+4. (Opcional) Conector de Meta **WhatsApp Business**: está declarado en `.mcp.json` del repo (`https://mcp.facebook.com/whatsapp_business_tools`). En local, o con `claude mcp add --transport http whatsapp_business https://mcp.facebook.com/whatsapp_business_tools`, ejecuta `/mcp` y completa el login de Meta. En sesiones en la nube, conéctalo en https://claude.ai/customize/connectors. **Este proceso no envía mensajes**: úsalo solo para consultar, nunca para contactar leads (sección 1).
+5. Prueba primero en **modo simulación** (sección 7) con 10 leads antes de dejarlo escribir.
 
 ## 1. Objetivo
 
