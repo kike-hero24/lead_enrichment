@@ -5267,6 +5267,475 @@
       "avisos": []
     },
     {
+      "record_id": "320a92fa-861f-4442-82d4-1521933c41ed",
+      "entry_id": "7847a6d1-e8f9-42bd-a82c-200d572733ed",
+      "nombre": "Plagiser S.L.",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34952339447"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.plagiser.com/es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "993d58e4-4e3d-44d8-b69d-a3442b55cf68",
+      "entry_id": "7bb57626-45c7-4eba-a72a-a895c7a45338",
+      "nombre": "Tecnicamp (tecnicamp.es) (fusiona ELD-MAL-Z02)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34681965925"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.tecnicamp.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "bae016ec-ffef-47a2-9d46-e9884107e11d",
+      "entry_id": "7ec409fc-b785-4c97-aeee-094f8948d049",
+      "nombre": "ECCI (Mijas)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34952445843"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://ecci.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "9d09612a-d3f8-434e-9ef0-c4d4daf52815",
+      "entry_id": "80303184-7dbf-4324-aaa5-ba700bd34505",
+      "nombre": "Cerrajería La Estrella (web cys-cerrajerialaestrella.com; email cerrajeriamarquez@yahoo.es)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34619324432",
+        "phone_number_2": "+34690258485"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://cys-cerrajerialaestrella.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "04e4bc43-d960-4427-b887-f23ddfc1e630",
+      "entry_id": "80b1ec9f-8c66-4688-a4d4-cf6898cfe8a1",
+      "nombre": "Guadaluz (GUADALUZ, S.L.)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34658891393",
+        "phone_number_2": "+34627513766"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.guadaluz.net/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "32145eb9-2282-4d2f-8e5e-6ae59674ba3f",
+      "entry_id": "81cc8412-9f2f-4368-9965-9ad1917070af",
+      "nombre": "Cerrajería El Llavín (razón social no verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34609524433",
+        "phone_number_2": "+34952544086"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.cerrajeriaelllavin.com/",
+      "propuestas": [
+        "email info@cerrajeriaelllavin.es (dominio no está en la ficha)"
+      ],
+      "avisos": [
+        "email de otro dominio: cerrajeriaelllavin@hotmail.com"
+      ]
+    },
+    {
+      "record_id": "089df829-dd55-4cc9-a981-6b8a878ec734",
+      "entry_id": "88c6fd90-abaf-45c0-b6c2-4cd75856a7dc",
+      "nombre": "Framisan Control de Plagas / ®FRAMISAN Torremolinos (web controlplagastorremolinos.es; razón social no verificada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34622081840",
+        "phone_number_2": "+34951074748"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://framisan.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "169ba165-1ebb-4672-b535-e11c70056107",
+      "entry_id": "91608bbf-7254-4d4a-aaaa-3e2c51cfa953",
+      "nombre": "CSI Servicios Informática",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34630879777",
+        "phone_number_2": "+34952312886"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.infocsi.net/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "8e86aef1-38d5-423a-9f9a-e5e31d3a6860",
+      "entry_id": "91bcc6c4-e684-444b-9e7b-1b2858acc66f",
+      "nombre": "Podartist (razón social/NIF No verificado; contacto mencionado: persona física)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34644387963"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://podartist.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "9316e473-9c9c-4a3f-8d0b-aa3a5912db9d",
+      "entry_id": "95979add-b159-44ca-9dd5-c6382306a8ba",
+      "nombre": "Regna Tec",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {},
+      "motivo": "web caída (regna-tec.com: conexión rechazada/host inalcanzable por https y http)",
+      "whatsapp": "no",
+      "web": "https://regna-tec.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "b7e7f1d9-4065-4475-a4ef-cc80c2f63e22",
+      "entry_id": "98f0ff12-ef1e-466c-955c-0e76c49448ce",
+      "nombre": "Home & Harmony (Home and Harmony limpiezas SL)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34640583760"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://homeandharmony.pro/",
+      "propuestas": [
+        "email admin@homeandharmony.pro (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "edffffc6-bc99-419b-8dc4-88516f529f00",
+      "entry_id": "9cc5d8f9-bbd9-485d-b4ff-729f37ec85ca",
+      "nombre": "Carpintería Vélez / Carpintería Alfonso Villanúa (titular según logo y ficha de mapa)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34625025736"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://carpinteriavelez.com/",
+      "propuestas": [],
+      "avisos": [
+        "email de otro dominio: villanua_carpinteria@hotmail.com"
+      ]
+    },
+    {
+      "record_id": "b407f3f4-267e-40d8-b392-e34bcdefb5fa",
+      "entry_id": "9ce626ce-d852-4d65-bcb7-e4c7ebc6c412",
+      "nombre": "SIC Servicios Integrales Cártama S.L. (antes Piscinas y Riegos Cártama; web piscinasmlg.com)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34627795394",
+        "phone_number_2": "+34952428139"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://piscinasmlg.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "b91a7ad1-dd92-46a5-8abf-dc208b07db94",
+      "entry_id": "a31fc7f1-7954-422f-870c-52be639fa253",
+      "nombre": "Cerrajero Express Ángel C. (autónomo; identidad fiscal publicada en su web, no reproducida)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34611536533"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.cerrajeroexpressangelc.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "f12a6ed1-1973-45ea-b315-cbc4ea7895cb",
+      "entry_id": "a83839a0-730f-4b91-9696-16b29d48e88c",
+      "nombre": "Computer Store Benalmádena (pie: Grupo Benalnova 2015 S.L.)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34630500394"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://computerstorebenalmadena.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "a19e34e8-ef28-43f7-ac16-36a359170169",
+      "entry_id": "a8bc66d8-dd3c-4998-9710-ebb57a13063a",
+      "nombre": "Transportes y Mudanzas El Rosetón S.L.U.",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34617888373"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.mudanzaselroseton.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "a44563ea-a4b5-4536-bba9-fd2fb3455ca7",
+      "entry_id": "acb64f4b-a143-4dd6-b9bc-430cc2b74e89",
+      "nombre": "Tu Casa en Rincón",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34690262757"
+      },
+      "motivo": "",
+      "whatsapp": "widget sin enlace",
+      "web": "https://tucasaenrincon.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "0f63aa95-74e4-48b0-81c3-048884b48845",
+      "entry_id": "adbbf581-cca2-4154-be09-e2552647b1df",
+      "nombre": "TCSanitario (Tratamientos y Control Sanitario, S.L.)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34951081690"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.tcsanitario.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "80d0399b-ab1e-4ac9-8c33-eced7302c6fb",
+      "entry_id": "b4321b8f-840b-4c72-9a5c-30efd37759c9",
+      "nombre": "Cerrajería Daniel Martínez (razón social no verificada)",
+      "estado": "conflicto",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {},
+      "motivo": "La web propia se contradice: el aviso legal da teléfono, email y dirección distintos de la página de contacto",
+      "whatsapp": "no",
+      "web": "https://www.cerrajeriadanielmartinez.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "cd628bf4-0766-4bab-8d17-f770356d1ff9",
+      "entry_id": "b544d139-cd63-40f3-87a7-513a017edf5f",
+      "nombre": "Alpaca Limpiezas (sede Torremolinos)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {},
+      "motivo": "Posible red de captación: aviso legal sin razón social ni CIF; 5 sedes con números correlativos 951 20 4x xx; el código fuente oculta un WhatsApp 'compartido por las webs del grupo' (anti-footprint, base64 invertido, se recompone solo al clic)",
+      "whatsapp": "widget sin enlace",
+      "web": "https://alpacalimpiezas.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "37c2e5a8-bdcd-45d4-bd50-a187112f3d10",
+      "entry_id": "b6b6bc5e-71c4-4fc5-a5b1-15a4f249bcdd",
+      "nombre": "Costa del Sol Garden (titular persona física según la web)",
+      "estado": "verificada_sin_cambios",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {},
+      "motivo": "datos de la web ya coinciden",
+      "whatsapp": "no",
+      "web": "https://costadelsolgarden.es/",
+      "propuestas": [],
+      "avisos": [
+        "email de otro dominio: omargomezberlanga1982@gmail.com"
+      ]
+    },
+    {
+      "record_id": "f98fe0f1-4f23-457f-91be-b538548f909e",
+      "entry_id": "b8a1a019-4894-4816-a1ad-70de43752478",
+      "nombre": "Damaz Multiservicios (damaz.es)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34652624547"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.damaz.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "f16f7a3f-3856-441a-818d-ada536dbb754",
+      "entry_id": "bae5f1dc-ca6a-4f2b-b033-ec4f187780d5",
+      "nombre": "Portes y Mudanzas La Axarquía",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34685471197"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.portesymudanzaslaaxarquia.com/es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "448f5f0a-0bec-4633-a7a4-1766c06b7082",
+      "entry_id": "bfac62a0-0ace-47b9-a7b3-45b9040f008d",
+      "nombre": "FPCarpintería Málaga (sin razón social)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34679453270",
+        "phone_number_2": "+34952074311"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.fpcarpinteriamalaga.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "c666b327-0adf-48b0-99a4-79db9ad7a03d",
+      "entry_id": "c3b2f0cb-3a6b-4920-a01c-1040767e49bf",
+      "nombre": "A&S Garden (identidad con la pista Habitissimo por coincidencia de nombre y rubro; no confirmada)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34643732149"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://asgarden.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "3d4079dd-79fe-4ea2-b919-e5c0cc22ea9d",
+      "entry_id": "c3e9d773-6347-4596-bba4-2ff85f17c9e4",
+      "nombre": "INALSUR (carpintería de aluminio; razón social/NIF No verificado)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34666803549",
+        "phone_number_2": "+34658917433"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.inalsur.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "1bff001b-4069-47af-9fbd-34a431961f77",
+      "entry_id": "c9391100-796c-41c8-bac5-b2061ffd0c58",
+      "nombre": "Pinturas y Decoración Daniel / Multiservicio Daniel (sin razón social)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "07",
+      "escrito": {
+        "phone_number": "+34627078482"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.pinturasdecoraciondaniel.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
       "record_id": "6c6699bc-2562-4b4e-a6dc-ffb9088b89c6",
       "entry_id": "ca4242ce-a8bf-4ae1-8692-49fc95b4f041",
       "nombre": "A1 Locksmiths",
@@ -6632,6 +7101,369 @@
       "motivo": "",
       "whatsapp": "si",
       "web": "https://costacoatings.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "82d963ed-092f-4263-8a2c-c6cc364be4b3",
+      "entry_id": "4fb7e249-3d8e-40b2-b961-9faee1008a40",
+      "nombre": "Servicio Técnico Fagor Málaga (servicio-tecnico-fagor-malaga.es) y Servicio Técnico AEG Málaga (servicio-tecnico-aeg-malaga.es)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {},
+      "motivo": "Web de SAT con nombre de marca (Fagor/AEG) no oficial, titular en Sevilla: probable red de captación de servicio técnico multimarca Bormujos (Sevilla)",
+      "whatsapp": "no",
+      "web": "https://www.servicio-tecnico-fagor-malaga.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "f36612d0-7a8d-4fdf-a13a-38f86f07f92b",
+      "entry_id": "505d87c1-cd2b-418e-ae75-9939cb9f68dc",
+      "nombre": "DMR Control de Plagas Málaga (controldeplagasmalaga.es)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {},
+      "motivo": "Motril (Granada)",
+      "whatsapp": "si",
+      "web": "https://controldeplagasmalaga.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "2096e0aa-8cb6-4945-a393-b2bc16047b8d",
+      "entry_id": "541e2385-fd27-497c-8f15-62fd94395faa",
+      "nombre": "Hisan (hisan.es)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {},
+      "motivo": "Écija (Sevilla); la home se titula 'Control de Plagas en Sevilla'",
+      "whatsapp": "widget sin enlace",
+      "web": "https://www.hisan.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "299e25c9-847d-41c9-96cd-3bf7209368a3",
+      "entry_id": "56649767-4842-4511-9c51-7d78e7cd22a6",
+      "nombre": "Easy Rent Málaga S.L.",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {
+        "phone_number": "+34675536240",
+        "persona_email": "info@easyrentmalaga.com"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://easyrentmalaga.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "21fe2f9a-68dc-455a-82e6-644cb1771df1",
+      "entry_id": "58e92531-2add-4820-9347-baf8c501c325",
+      "nombre": "carpinteromalaga.com (web alquilada por Marketing Oficios S.L., CIF B21781851, Córdoba)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {},
+      "motivo": "Web de keyword alquilada por agencia de captación (Marketing Oficios S.L., Córdoba); el teléfono puede ser de un carpintero arrendatario Córdoba (titular de la web)",
+      "whatsapp": "widget sin enlace",
+      "web": "https://www.carpinteromalaga.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "e0a3a406-97f8-4754-bf14-b285aa4d0499",
+      "entry_id": "5d598a8e-01d8-48f6-a764-222420eae1cc",
+      "nombre": "Control de Plagas Fuengirola (controldeplagasfuengirola.com) (fusiona PLA-MAL-Z04, \"El Fumigador\")",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {},
+      "motivo": "Dominio genérico de keyword sin titular identificado en aviso legal; dos teléfonos distintos (botón llamar 625482979 vs meta 629667575)",
+      "whatsapp": "no",
+      "web": "https://controldeplagasfuengirola.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "86dcd6e7-79b9-42a7-8ae1-5d290655c453",
+      "entry_id": "60cb8c9b-3b16-46e3-9a90-1b265cef87ac",
+      "nombre": "Saneamientos Cruz S.L. (ficha Trustlocal Torremolinos; web hallada: distribuidor de Córdoba)",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {},
+      "motivo": "El dominio de la ficha es de otra empresa (distribuidor de fontanería en Córdoba); sin web propia confirmada",
+      "whatsapp": "no",
+      "web": "https://saneamientoscruz.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "aeec2f83-dc0d-4502-8be9-ededff41e4a6",
+      "entry_id": "6a0efff7-020a-4ba3-b82c-9bd57411cc66",
+      "nombre": "Reparaciones Guerrero (reparacionelectrodomesticosfuengirola.com; segundo dominio reparacionelectrodomesticosguerrero.com)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {
+        "phone_number": "+34641208785"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://reparacionelectrodomesticosfuengirola.com/",
+      "propuestas": [
+        "email info@reparacionelectrodomesticosguerrero.com (dominio no está en la ficha)"
+      ],
+      "avisos": []
+    },
+    {
+      "record_id": "2466c1b0-ae4c-49ea-a799-f392120c6af7",
+      "entry_id": "6fce16a0-351a-4bd6-b08f-27fcb9c5b97e",
+      "nombre": "Guadalplaga S.L. (Campillos)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {
+        "phone_number": "+34675517340"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.guadalplaga.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "8ee665cc-60e8-4b35-ad05-c5863c7dcbe0",
+      "entry_id": "7b46aa00-f120-4393-abfd-4cb849655343",
+      "nombre": "mifincaes (administrador de fincas colegiado, sin número)",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {},
+      "motivo": "web caída (connection reset en https y http desde el proxy)",
+      "whatsapp": "no",
+      "web": "https://www.mifincaes.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "d30d28a0-7939-4dad-875a-c52f90f65c6a",
+      "entry_id": "88a9962c-985b-47e0-846f-15b6ab05a536",
+      "nombre": "Tejeda Service (gestión de viviendas y mantenimiento; web en neerlandés, alemán e inglés) (fusiona GES-MAL-A02)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {
+        "phone_number": "+34681176236",
+        "persona_email": "info@tejeda-service.com"
+      },
+      "motivo": "",
+      "whatsapp": "widget sin enlace",
+      "web": "https://tejeda-service.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "0ee702bc-f2a6-43d0-89f0-7561aaed03b6",
+      "entry_id": "9c56e569-8016-45f1-be38-cd13baed415a",
+      "nombre": "Rey Tuberías / \"Desatoro Málaga Rey Tuberías\" (CIF/razón social no verificados)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {
+        "phone_number": "+34639073061",
+        "phone_number_2": "+34951109048"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.desatorosreytuberias.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "ff32d58a-459f-4f18-ba13-50a8ab438059",
+      "entry_id": "a4857d50-08f9-4e19-81f4-006e3784b2ed",
+      "nombre": "iClean (iclean-spain.com)",
+      "estado": "requiere_llamada",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {},
+      "motivo": "web caída (DNS no resuelve iclean-spain.com)",
+      "whatsapp": "no",
+      "web": "http://www.iclean-spain.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "035b7490-f952-4634-8d8a-df91809770fa",
+      "entry_id": "b1693b0a-9893-4699-a090-2dd653f10a14",
+      "nombre": "Pintores en Benalmádena (pintorbenalmadena.blogspot.com; contacto \"Daniel Silva\")",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {
+        "phone_number": "+34622424848",
+        "phone_number_2": "+34657846944"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://pintorbenalmadena.blogspot.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "e3d1ec70-da45-4c4e-8f7f-a2b858cb5b04",
+      "entry_id": "bd4891a8-97ac-43e5-9ec5-116e64abad93",
+      "nombre": "AyG Cerrajeros / \"Cerrajero Málaga\" (profesionales-malaga.com/cerrajero)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {},
+      "motivo": "profesionales-malaga.com es plataforma/directorio; el número difiere entre la página servida (777 72 75 28 / 777 72 75 77) y el índice del buscador (675 72 75 28): posible número de seguimiento/reescritura",
+      "whatsapp": "no",
+      "web": null,
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "8b192f4d-8fcd-4cb2-894b-4d366a81d0b3",
+      "entry_id": "c2ee18c1-2686-478a-a4c1-ad8c6f4f47eb",
+      "nombre": "Cerrajeros Málaga 24horas (cerrajerosmalaga24horas.eu)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {
+        "phone_number": "+34624934082",
+        "persona_email": "info@cerrajerosmalaga24horas.eu"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.cerrajerosmalaga24horas.eu/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "ac01f200-b90f-4ead-b2cc-dfd291b3f16f",
+      "entry_id": "cd496f08-0583-49ba-b28e-4fd42b402bf4",
+      "nombre": "Archimede Málaga (archimede-malaga.es)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {},
+      "motivo": "Red de SAT multiciudad operada por empresa italiana (Archimede®/Numeri Primi Srl): 'el técnico más cercano' — deriva leads a técnicos terceros Italia (titular)",
+      "whatsapp": "si",
+      "web": "https://www.archimede-malaga.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "52151078-32e5-4f7d-acc4-e3c4f0348acd",
+      "entry_id": "cd5893ac-889e-4d7e-9f17-fa34e8885606",
+      "nombre": "MALAGAPINTORES (malagapintores.com / .net)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {
+        "phone_number": "+34659261565"
+      },
+      "motivo": "",
+      "whatsapp": "si",
+      "web": "https://www.malagapintores.com/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "b63a36c1-6f4e-4cdb-8550-83107efe19d0",
+      "entry_id": "d152419f-9598-4430-9c78-4b7fc7d2aa09",
+      "nombre": "Limpiezas Comodín (limpiezascomodin.es; razón social/NIF No verificado)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {},
+      "motivo": "Barcelona (titular)",
+      "whatsapp": "no",
+      "web": "https://limpiezascomodin.es/",
+      "propuestas": [],
+      "avisos": []
+    },
+    {
+      "record_id": "6e5fb1b2-3446-4b61-979a-aabff04c62fb",
+      "entry_id": "def1ed28-d139-4998-8079-e6d7f4a28bee",
+      "nombre": "Computer Store Antequera (franquicia)",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {
+        "phone_number": "+34685808114",
+        "phone_number_2": "+34951338383"
+      },
+      "motivo": "",
+      "whatsapp": "no",
+      "web": "https://www.computerstoreantequera.es/",
+      "propuestas": [],
+      "avisos": [
+        "email de otro dominio: computerstoreantequera@gmail.com"
+      ]
+    },
+    {
+      "record_id": "fd933b2b-ee75-4041-acac-be50c401cd32",
+      "entry_id": "eba4b540-5b42-41cd-a7fb-2224172cb25e",
+      "nombre": "Cerrajero La Paz",
+      "estado": "enriquecida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {
+        "phone_number": "+34642490411",
+        "phone_number_2": "+34642490422"
+      },
+      "motivo": "",
+      "whatsapp": "widget sin enlace",
+      "web": "https://cerrajerolapaz.com/",
+      "propuestas": [],
+      "avisos": [
+        "email de otro dominio: cerrajerolapaz@gmail.com"
+      ]
+    },
+    {
+      "record_id": "8789a65b-a3a2-43e4-8908-03bf815cf766",
+      "entry_id": "ff55e230-175d-4d69-8495-8cb530b84729",
+      "nombre": "Cerrajeros Vélez-Málaga (cerrajerosvelezmalaga.es; razón social/NIF No verificado)",
+      "estado": "retenida",
+      "fecha": "2026-11-05",
+      "lote": "equipo_2026-11-05",
+      "tanda": "11",
+      "escrito": {},
+      "motivo": "Granada (domicilio del titular)",
+      "whatsapp": "no",
+      "web": "https://www.cerrajerosvelezmalaga.es/",
       "propuestas": [],
       "avisos": []
     }

@@ -91,6 +91,7 @@ DeccoAndy,Salamanca,Reformas y Construcción,+34635608667,web caída (HTTP 500/5
 Valora Construcción (valoraconstruccion.com),Malaga,Reformas y Construcción,,web propia sin teléfono
 Multi Piscinas Andalucía,Malaga,Mantenimiento piscinas,,sin web propia
 Cerrajería Crifer,Malaga,Cerrajeros,,sin web propia
+Regna Tec,Malaga,Soporte informático,,web caída (regna-tec.com: conexión rechazada/host inalcanzable por https y http)
 SERVIAMB,Salamanca,Control de plagas,+34676911026,sin web propia
 Ángel Barbero García Ebanista Cocinas Tarima Armarios,Salamanca,Carpinteria y ebanisteria,+34619536437,sin web propia
 "Sánchez Iglesias, José Luis",Salamanca,,,sin web propia
@@ -102,3 +103,6 @@ Hervalejo Ebanista,Salamanca,Carpinteria y ebanisteria,+34655584168,sin web prop
 Ebanistería de Diseño Carlos Javier,Salamanca,Carpinteria y ebanisteria,+34923184054,sin web propia
 "Administración de Fincas Costa del Sol (Adfincosol), Marbella",Malaga,Gestión y mantenimiento de inmuebles,,sin web propia (solo ficha en cronoshare; negocio en Marbella)
 Viveros Sánchez (gardenviverossanchez.com; razón social/NIF No verificado),Malaga,Jardineria y Exteriores,,"web caída (DNS no resuelve, https y http)"
+Saneamientos Cruz S.L. (ficha Trustlocal Torremolinos; web hallada: distribuidor de Córdoba),Malaga,Desatascos y saneamientos,,El dominio de la ficha es de otra empresa (distribuidor de fontanería en Córdoba); sin web propia confirmada
+"mifincaes (administrador de fincas colegiado, sin número)",Malaga,Gestión y mantenimiento de inmuebles,,web caída (connection reset en https y http desde el proxy)
+iClean (iclean-spain.com),Malaga,Limpieza,,web caída (DNS no resuelve iclean-spain.com)
